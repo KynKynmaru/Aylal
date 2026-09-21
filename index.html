@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="mn">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Аялсан аймгууд</title>
+
+    <!-- LEAFLET CSS -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    >
+
+    <!-- OUR CSS -->
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+
+</head>
+
+
+<body>
+
+<div class="app">
+
+
+    <!-- =====================================
+         HEADER
+    ====================================== -->
+
+    <header class="header">
+
+        <div class="header-title">
+            Аялсан аймгууд
+        </div>
+
+    </header>
+
+
+
+    <!-- =====================================
+         MAP
+    ====================================== -->
+
+    <section
+        class="map-section"
+        id="mapSection"
+    >
+
+        <div id="mongoliaMap"></div>
+
+
+        <!-- QUICK INFORMATION -->
+
+        <div
+            id="infoBox"
+            class="info-box"
+        >
+
+            <div class="info-top">
+
+                <div
+                    id="provinceName"
+                    class="province-name"
+                >
+                    Аймаг
+                </div>
+
+
+                <button
+                    class="close-info"
+                    onclick="closeInfo()"
+                >
+                    ×
+                </button>
+
+            </div>
+
+
+            <div
+                id="provinceDescription"
+                class="province-description"
+            >
+                -
+            </div>
+
+
+            <div class="province-data">
+
+                <div class="data-item">
+
+                    <strong id="provinceCode">
+                        -
+                    </strong>
+
+                    Код
+
+                </div>
+
+
+                <div class="data-item">
+
+                    <strong>
+                        ✓
+                    </strong>
+
+                    Аялсан
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- =====================================
+         COUNTRY
+    ====================================== -->
+
+    <div
+        class="country-row"
+        id="countryRow"
+    >
+
+        <div class="country-name">
+            Монгол улс
+        </div>
+
+
+        <div
+            class="province-count"
+            id="visitedCount"
+        >
+            #0
+        </div>
+
+    </div>
+
+
+
+    <!-- =====================================
+         CONTENT
+    ====================================== -->
+
+    <main
+        class="content"
+        id="content"
+    ></main>
+
+
+
+    <!-- =====================================
+         BOTTOM NAV
+    ====================================== -->
+
+    <nav class="bottom-nav">
+
+
+        <div
+            class="nav-item active"
+            id="mapNav"
+            onclick="showMap()"
+        >
+
+            <div class="nav-icon">
+                🗺️
+            </div>
+
+            <div class="nav-text">
+                Монгол улс
+            </div>
+
+        </div>
+
+
+
+        <div
+            class="nav-item"
+            id="aboutNav"
+            onclick="showAbout()"
+        >
+
+            <div class="nav-icon">
+                🏠
+            </div>
+
+            <div class="nav-text">
+                Бидний тухай
+            </div>
+
+        </div>
+
+
+    </nav>
+
+</div>
+
+
+
+<!-- LEAFLET JS -->
+
+<script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+></script>
+
+
+<!-- OUR JAVASCRIPT -->
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
