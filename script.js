@@ -953,6 +953,9 @@ const nameMap = {
     "Uvs":
         "Uvs",
 
+    "uvs":
+        "Uvs",
+
     "Zavkhan":
         "Zavkhan",
 
@@ -1179,30 +1182,6 @@ function selectProvince(
     /*
        Quick information
     */
-
-    document.getElementById(
-        "provinceName"
-    ).innerText =
-        info.name;
-
-
-    document.getElementById(
-        "provinceDescription"
-    ).innerText =
-        info.description;
-
-
-    document.getElementById(
-        "provinceCode"
-    ).innerText =
-        info.code;
-
-
-    document.getElementById(
-        "infoBox"
-    ).classList.add(
-        "show"
-    );
 
 
     /*
