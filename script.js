@@ -605,8 +605,8 @@ const provinceInfo = {
             location: "Зуунмод, Төв аймаг",
             description: "Богдхан уулын энгэрт XVIII зуунд байгуулагдсан эртний хийдийн үлдэгдэл, хадан дээрх сийлбэр бурхад, байгалийн музей бүхий аялал жуулчлалын гол цэг.",
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX6B8jYf9S6MCHzca1lkZJlCbnsfFR747q2bO51lwUBw&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cBiCU5nLXu80nT-ovRn-iJKMkbrUjaoH2fO-4NeMFw&s=10"
             ]
         },
 
@@ -615,8 +615,8 @@ const provinceInfo = {
             location: "Зуунмод, Төв аймаг",
             description: "Дэлхийн хамгийн анхны дархан цаазат уулсын нэг (1778 онд дархалсан). Цэцээ гүн, Цайз зэрэг оргилуудтай, шинсэн ой, хад асга, булаг шандтай.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://niitlelch.mn/wp-content/uploads/2019/06/bogd-khan-uul-01.jpeg",
+                "https://bogdkhan.met.gov.mn/media/36728388566469d72e0561.jpeg"
             ]
         },
         {
@@ -624,8 +624,8 @@ const provinceInfo = {
             location: "Эрдэнэ сум, Төв аймаг",
             description: "Гранит боржин чулуун сонин содон тогтоц бүхий хад асга (Мэлхий хад, Зааны хад гэх мэт), нарсан ой, Тэрэлж ба Туул голын хослол. Морь унах, явган аялал хийх, АриPoint/Арибал бясалгалын хийдэд зочлох болон амралтын баазуудад амрахад нэн тохиромжтой.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6weWTwccL9goh06FYO1xzzkHFI5xq34Rg3yXDGk3FPQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HUFPLj7YBpQBB3CVzrJqL8WMrvPojYF4oeFpXLRTZQ&s=10"
             ]
         },
         {
@@ -633,8 +633,8 @@ const provinceInfo = {
             location: "Эрдэнэ сум, Төв аймаг",
             description: "Эзэн Чингис хаан алтан ташуур олсон гэх түүхэн газарт босгосон 40 метр өндөр, дэлхийд хамгийн томд тооцогдох морьт хөшөө. Морьт хөшөөний морины дэлэн дээр гарч эргэн тойрноо тольдох боломжтой бөгөөд дотроо эзэнт гүрний үеийн музейтэй.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6EuBnHvO-KfLuc7wgGZwrKO53QKevBZdGkMTETgXcw&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyI0IwBQq0Cyv30YEQVaY95gWRtddxxmCSCJcMQRDdPw&s=10"
             ]
         },
         {
@@ -642,8 +642,8 @@ const provinceInfo = {
             location: "Алтанбулаг, Аргалант сум, Төв аймаг",
             description: "Дэлхийд ховордсон байгалийн унаган Тахь (Пржевальскийн морь)-г сэргээн нутагшуулсан олон улсын ач холбогдолтой БЦГ. Тахь, Буга, Аргаль ажиглах, эко-аялал хийх ба эртний Хөшөө цайдмын дөрвөлжин булш, хүн чулуудыг үзэх боломжтой.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCQe4-PU9MVcrXsjl93T4CEy7PRDzI2Gse2kD8xZPjw&s=10L",
+                "https://tovaimar.wordpress.com/wp-content/uploads/2018/10/d0bcd0b0d0bdd0b7d183d188d0b8d180_b.jpg"
             ]
         },
         {
@@ -651,8 +651,8 @@ const provinceInfo = {
             location: "Алтанбулаг, Аргалант сум, Төв аймаг",
             description: "Туул, Хараа, Ерөө голуудын эх авдаг уулс, хавцлуудаас бүрдэх бөгөөд каноэ, завиараа аялах, загасчлах, агаар салхинд гарахад хамгийн ойр тохиромжтой.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://upload.wikimedia.org/wikipedia/commons/e/ea/Tuul_River_Mongolia.JPG?utm_source=mn.wikipedia.org&utm_campaign=index&utm_content=original",
+                "https://resource4.sodonsolution.org/24tsag/image/2021/09/27/6jc8k4h6nao60no7/23.jpg"
             ]
         },
         {
@@ -660,8 +660,8 @@ const provinceInfo = {
             location: "Баян сум, Төв аймаг",
             description: "Эртний Түрэгийн эзэнт гүрний мэргэн сайд Тоньюкукт зориулсан руни бичээс бүхий ховор дурсгал.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVMdmBKJHWW7gu8brG3P6JNhsd6GW8Gv-rr3uBsyFHQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8TzE8VAYDnKcU5Ox3PLRDT1MHnz3gzstgF_kxj8L4Q&s=10"
             ]
         },
         {
@@ -669,8 +669,8 @@ const provinceInfo = {
             location: "Баян-Өнжүүл сум, Төв аймаг",
             description: "Говь хээрийн бүсийн заагт орших, боржин чулуун сүрлэг Зоргол хайрхан уул.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2iA1dwZdK8rsEbKQlUUK_kCaKlR9nITyFf1qjUvIOQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-z_Zd8G3TX7cw6griA2a7p3JBfA74HrTfZiSHi1qw2A&s=10"
             ]
         }
     ],
@@ -681,8 +681,8 @@ const provinceInfo = {
             location: "Тариат сум, Архангай аймаг",
             description: 'Хорго галт уул: Одоогоос хэдэн мянган жилийн өмнө дэлбэрч байгаад унтарсан, 200 орчим метр гүн, 300-400 метр диаметр бүхий тогоотой унтарсан галт уул.Тэрхийн цагаан нуур: Хорго галт уулын халуун хайлмал бодис голын голдирлыг боосны дүнд үүссэн цэнгэг уст сайхан нуур. Нууранд сэлэх, заьсаар аялах, шувуу ажиглахад нэн тохиромжтой.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM7U96GkGJ5yQUWbpYk7_Nzl0mJDTVVOzWpVco9WIYyg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDssV71xWIRd1BIar4whmrnZve5TvkEd2eyfFFSU3fqg&s=10"
             ]
         },
 
@@ -691,8 +691,8 @@ const provinceInfo = {
             location: "Өндөр-Улаан, Тариат сум, Архангай аймаг",
             description: "Хангайн нуруунаас эх авч, хүрмэн чулуун эгц босоо 50-60 метр гүн хавцал дундуур урсана. Хавцлын ирмэг дээрээс харагдах байгалийн харах орчин сүртэй бөгөөд Чулуут голын сав газарт эртний хадны зураг олноор олдсон.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqshmvRw6PKdcmqzIM8F701msD5zr19GmSOZHqrcTDNg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqR2h35tZLY_R5n56wJrqENmIZygm7HQ2T7Tkqnlepxw&s=10"
             ]
         },
         {
@@ -700,8 +700,8 @@ const provinceInfo = {
             location: "Цэнхэр сум, Архангай аймаг",
             description: "Эрдэс бодис, хүхэрт устөрөгчийн найрлагатай 80-86°C хүртэл халуун тунамал рашаан. Ой модон дунд байрлах олон төрлийн амралтын баазуудтай тул задгай агаарт халуун рашаанд орж, ядаргаагаа тайлахад тохиромжтой.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgM8uXuTqlddd5AZB2xZmjY_BpS8LeeD9tE3moZvTXbuq6bF9EYqkQ4iY&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxSfyWP6VBsK4YC76Ugiu7JUigJSFiHrxQRLzZKl6TA&s=10"
             ]
         },
         {
@@ -709,8 +709,8 @@ const provinceInfo = {
             location: "Ихтамир сум, Архангай аймаг",
             description: "Хойд Тамир голын хөндийд орших 20 орчим метр өндөр, сүрлэг том биеэ даасан боржин чулуун тогтоц. Түүний гадаргуу дээр эртний Руни, Монгол, Төвөд гэх мэт олон цаг үеийн бичээсүүд болон холбогдох олон сайхан домогоор баялаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPUaxqSYZJLE6GMdy_763-XuYaceO3uAAiUpnYsVwnw&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZd2J4LgeDF24PCLvoo2KHnzFi0lEqmlPm5xF-MkOZSw&s=10"
             ]
         },
         {
@@ -718,8 +718,8 @@ const provinceInfo = {
             location: "Цэнхэр сум, Архангай аймаг",
             description: "Далайн түвшнээс дээш 3,117 метр өндөрт орших, төрийн тахилгатай сүрлэг хайрхан. Хормойдоо ой модоор хучигдсан, нүцгэн оройтой, энгэртээ тунгалаг нууртай бөгөөд Хангайн нурууны усны гол хагалбар нутаг юм.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtE7aej3kxhkdKPuLabzVM78HOlzgTwB9hCIYPYMo_g&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xdnnipdws0K5kswPQcprXnFuuawq4KkCs_vqlLczyA&s=10"
             ]
         },
         {
@@ -727,8 +727,8 @@ const provinceInfo = {
             location: "Өгийнуур сум, Архангай аймаг",
             description: "Шувуу ажиглах, загасчлах сонирхолтой аялагчдын гол очдог цэнгэг уст нуур. Олон төрлийн нүүдлийн болон усны шувууд цугладаг бөгөөд нуурын эрэг дагуу амралтын баазууд олноор байрладаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChF3eTgKySi53Yeolz3cqJ5C7QQ2AcdL9lrkHMLIiCQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZnn0VSWX6QTHURU1zxJQlwL8NErgWo75Mcbyd49Riw&s=10"
             ]
         },
         {
@@ -736,8 +736,8 @@ const provinceInfo = {
             location: "Цэцэрлэг хот / Эрдэнэбулган сум, Архангай аймаг",
             description: "Булган уул: Аймгийн төв Цэцэрлэг хотын хойд талд сүндэрлэх, суварга, хөшөө, Буддын шат авиралт бүхий ой модон бүрхүүлтэй байгалийн дурсгалт уул.Заяын хүрээ (Архангай аймгийн музей): Эртний Төвөд, Монгол уран барилгын хийцийг шингээсэн, түүхийн ховор нандин үзвэрүүдийг хадгалсан музей.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3TyIN-5uRBcSUFsXfPDtrM4V9-99x4OSrFYISgmS2gg&s=10",
+                "https://todnews.mn/uploads/8520buu1000.jpg"
             ]
         },
         {
@@ -745,8 +745,8 @@ const provinceInfo = {
             location: "Хашаат сум, Архангай аймаг",
             description: "Эртний Түрэгийн Билгэ хаан болон Күльтегин генералын гэрэлт хөшөөний цогцолбор.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGVesCB6ASohjPfNCsSZhH-zqey-8M_773IxfNv3OFag&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg07o-5l5LySNsJBCI70HDEP3OwHvenmfETYvKN532fw&s=10"
             ]
         },
         {
@@ -754,8 +754,8 @@ const provinceInfo = {
             location: "Хотонт сум, Архангай аймаг",
             description: "Уйгурын каганат гүрний нийслэл Орду-Балык хотын үлдэгдэл балгас.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75r4xC_CuNwySwoOu4eEVlwV6679vWR7YbZECQLCOpxcaFNpgmFAW4Vk&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJmoXLFy42G075YMTy66EOmAzJ1ZU3qFdGq4BwijB6z07xMkgOiGwMKN-u&s=10"
             ]
         }
     ],
@@ -766,8 +766,8 @@ const provinceInfo = {
             location: "Улаанхус сум, Баян-Өлгий аймаг",
             description: 'Хүйтэн согино болон 5 өндөр оргил: Монгол орны хамгийн өндөр цэг болох Хүйтэн оргил (4,374 м), Найрамдал, Бургид, Малчин, Өлгий оргилуудаас бүрдсэн мөнх цаст сүрлэг уулс.Уулчид болон явган аялагчдын гол зорилтот газар юм. Потанины мөсөн гол: Алтай Таван Богдын өвөрт орших Монголын хамгийн том, 19 орчим км урт үргэлжлэх мөсөн гол.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://www.gazarchin.mn/wp-content/uploads/2021/02/%D0%B0%D0%BB%D1%82%D0%B0%D0%B9-%D1%82%D0%B0%D0%B2%D0%B0%D0%BD-%D0%B1%D0%BE%D0%B3%D0%B4-%D1%83%D1%83%D0%BB-5.jpg",
+                "https://cdnp.cody.mn/spree/images/672456/large/Altai-Tavan-Bogd-Square-1.jpg"
             ]
         },
 
@@ -776,8 +776,8 @@ const provinceInfo = {
             location: "Цэнгэл сум, Баян-Өлгий аймаг",
             description: "Хотон нуур: Алтайн өндөр уулсаар хүрээлэгдсэн, модон аралтай, тунгалаг цэнгэг уст нуур. Усны шувууд олноор цугладаг бөгөөд нуурын эргээр шинэсэн ой модон бүрхүүлтэй. Хурган нуур: Хотон нууртай богино гойпоор холбогддог, загас агнахад нэн тохиромжтой үзэсгэлэнт нуур. Нуурын сав газар болон Сийхэтийн хөндийгөөр эртний хадны зураг, буган хөшөө, хүн чулуу ихээр олддог.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvEPaQOzpiDqfE49twr-w4TBMl7nTd723Usep3A3xWA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12AbfP5HCnl1qZtANTDEPSLyTbWCR0ZB9iuHr-FgVug&s=10"
             ]
         },
         {
@@ -785,8 +785,8 @@ const provinceInfo = {
             location: "Толбо сум, Баян-Өлгий аймаг",
             description: "Өлгий хотоос Ховд чиглэлийн засмал зам дагуу байрлах, далайн түвшнээс дээш 2,080 метр өндөрт орших цэнгэг уст нуур. Нуурын эрэг дагуу амрах, майхантай хоноглох, гэрэл зураг авхад нэн тохиромжтой байгалийн өвөрмөц тогтоцтой.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEScwlGGGyB4SMaLuhOPRATc8kPSsDDf5N5_dYj0zcrA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsMDcs7j3c3ngCeceyG37hFeppFDOdwT_cFee2-YeRQ&s=10"
             ]
         },
         {
@@ -794,8 +794,8 @@ const provinceInfo = {
             location: "Алтанцөгц сум, Баян-Өлгий аймаг",
             description: "Баян-Өлгий болон Ховд аймгийн заагт орших мөнх цаст сүрлэг хайрхан (4,208 м). Уулын энгэр хөндийгөөр тунгалаг горхи, цэцэгст хөндий, хад асга хослох бөгөөд авиралт болон явган аялал хийхэд тохиромжтой.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBD_2oPpxTb95ymWN4YnMdSnvqSPDXIXChJu6hRRFPYA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTuXkhx5uatpkdPySbE6O2Jmut9zzrfRFU5JaxYcEuaA&s=10"
             ]
         },
         {
@@ -803,8 +803,8 @@ const provinceInfo = {
             location: "Улаанхус сум, Баян-Өлгий аймаг",
             description: "ЮНЕСКО-гийн Дэлхийн соёлын өвд бүртгэгдсэн, эртний бронз болон төмөр зэвсгийн үеийн хэдэн мянган хадны зураг бүхий томоохон археологийн дурсгалт газар. Эртний анчид, амьтад, нүүдэлчдийн амьдралыг харуулсан баялаг дүрслэлүүдийг харах боломжтой. ",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Q-684_lpElYAuUKKsARNhsig2dDfxRzsaY67wtADNg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2wKpq-cCnA9zvlH6v8pM2WPpLXLzTd9XJ3q1bkFWavA&s"
             ]
         },
        
@@ -816,8 +816,8 @@ const provinceInfo = {
             location: "Богд, Жинст, Баянлиг, Баянговь сумд, Баянхонгор аймаг ",
             description: 'Их Богд (3,957 м): Говь-Алтайн нурууны хамгийн өндөр оргил бөгөөд 1957 оны хүчтэй газар хөдлөлтөөс үүссэн хавцал, асга, нуранги бүхий өвөрмөц тогтоцтой. Уулын орой хэсэгт мөнх цас, мөсөн голын үлдэгдэл бий',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTzXXBxbSx7IKHHtBNZKfiD1GdYUKXNCe8wStYZgKzw&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAgGS-PlriIY70Ct_qH6w2G7MHZoq7PaA1lhBWVbssA&s"
             ]
         },
 
@@ -826,8 +826,8 @@ const provinceInfo = {
             location: "Баацагаан сум, Баянхонгор аймаг",
             description: " Говь-Алтайн нуруу ба Хангайн нурууны хооронд орших том хэмжээний шүүртэй нуур. Олон төрлийн нүүдлийн болон ховор усны шувууд цугладаг Ramsar-ын конвенцид бүртгэгдсэн чухал бүс. ",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrN26Q03xXBWGCQBkKxgcq9xCs8BULZ9Xcuh3rl1lLg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVY-jbs4yq1ZoUMHCIndIf7BCJ5RDDQG10KLuNcTJ5IQ&s=10"
             ]
         },
         {
@@ -835,8 +835,8 @@ const provinceInfo = {
             location: "Богд сум, Баянхонгор аймаг",
             description: "Их Богд уулын ар хориор орших, элсэн манхан ба уултай захалдаг үзэсгэлэнтэй нуур. ",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUKW0KQ5nuLi5KEvA8NR9GfQ6iHQXveJoGFG5EkxU4Q&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzO0-KEG2rg4k9vSl40ChGx_uZ3RRh4CCW09syaum62Q&s=10"
             ]
         },
         {
@@ -844,8 +844,8 @@ const provinceInfo = {
             location: "Баянлиг сум, Баянхонгор аймаг",
             description: "Эртний бронз ба төмөр зэвсгийн үеийн ан агнуур, тэрэг, амьтдын дүрсийг сийлсэн хадны зургийн баялаг дурсгал. ",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjzgYoq0K8yZEO9ZroqGkP315QLPvUMuOU5T70_o7aUA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoaKIaQAZzB8F3PL-HA-6NQULuH8OxMKWOOzOHuZO-ZA&s=10"
             ]
         },
         {
@@ -862,8 +862,8 @@ const provinceInfo = {
             location: "Гурвантэс болон Баянлиг сумын зааг, Баянхонгор аймаг",
             description: "Говийн сүм хийдийн архитектурын үлдэгдэл бүхий түүх дурсгалын цогцолбор. ",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmLggAw6o2E02YajD61hwAnmBjMlNTGrQ2BZvx_i7P-g&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcFQGLxmvjnOnySSwHRoaM5OGkoJLFWIHgBEree1_fw&s=10"
             ]
         },
        
@@ -875,8 +875,8 @@ const provinceInfo = {
             location: "Хутаг-Өндөр сум ,Булган аймаг ",
             description: 'Одоогоос 20-30 мянган жилийн өмнө унтарсан галт уул. Тогооны гүн нь 50 м, диаметр нь 500 м бөгөөд тогооныхоо ёроолд жижиг нуур, нарс шинэсэн ойтой.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmj3THaSAJH3rjqqd6aYO0HK1c5ZvbmT_bVFysjDupQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXCnnj58ReoUnT80zkjEWpILdRBkIpeNyO5tGGcEtXrw&s=10ЭНД_2_ЗУРГИЙН_URL"
             ]
         },
 
@@ -885,17 +885,17 @@ const provinceInfo = {
             location: "Рашаант, Гурванбулаг сум , Булган аймаг",
             description: "Хөгнө хаан уулын гранит хадууд, сунайсан элсэн манхан болон Тарна голын бүрд нэг дор цогцолсон байгалийн өвөрмөц тогтоц. ",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpndHd-CvYHP7oWqiQgG30ONi99yMDZnEaCrudxuwvgg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWm8su0trOBRFw26YkxxnK2bC1yn4PmP2BhotsITfyQ&s=10"
             ]
         },
         {
-            name: "Шивээт улааны цогцолбор дурсгал.Орог нуур",
+            name: "Шивээт улааны цогцолбор дурсгал.",
             location: "Баян-Агт сум , Булган аймаг",
             description: "Хануй голын хойд талд Шивээт улаан хэмээх уулын орой дээр Y-YIII зууны үеийн Түрэгийн Эльтерес Күтлүг хааны дурсгалд зориулсан цогцолборын туурь, им тамга бүхий хөшөө, хүн чулуу, арслан, хонь зэрэг 20 гаруй чулуун дурсгалтай цогцолбор бий.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8REUzxflhSas_8DGWJ8jXwUhlEGH1W3UStEwFRwT6w&s=10ЭНД_1_ЗУРГИЙН_URL",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjUfBfdtq1knrHHyZIEa0ED0GrUMga-uu3iAmlhBgKpw&s=10"
             ]
         },
         {
@@ -903,8 +903,8 @@ const provinceInfo = {
             location: "Дашинчилэн сум, Булган аймаг",
             description: "Туйрыг анх XIX зууны үед илрүүлэн олсон ба 1934, 1948- 1949 онуудад хайгуул судалгаа, 1970 онд бага хэмжээний малталгаа хийж байжээ. Уг хотын туурь түүхийн хоёр өөр цаг үед холбогдох бөгөөд эхнийх нь Х-ХI зууны Кидан улсын үе болно.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQny-razF-2dYAtD9CZk9gWZ9rPycVaIfZYxow90molpQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT17OdmND15IvTiQ7xAnNjmiIIa3OgegPN-MUeKJEWXnw&s=10"
             ]
         },
         {
@@ -912,8 +912,8 @@ const provinceInfo = {
             location: "Дашинчилэн сум, Булган аймаг",
             description: "Энд эртний гэрэлт хөшөөний суурь хоёр том чулуун мэлхий бий бөгөөд олдсон зарим дээврийн ваар нь кидан бичигтэй байжээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OImDoyKXPBbXmq3L2QfdlsQFVkazwbEbo21cHc9mAA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-DvQO_esYoACpglwmISqugvUz80ojMlNVPmbzx-MFA&s=10"
             ]
         },
           {
@@ -921,8 +921,8 @@ const provinceInfo = {
             location: "Архангай аймгийн Хайрхан сум, Булган аймгийн Сайхан сумын нутгийн зааг",
             description: "Архангай аймгийн Хайрхан сум, Булган аймгийн Сайхан сумын нутгийн заагт орших эртний Уйгурын үеийн гэрэлт хөшөө, булшны цогцолбор юм. Дурсгал нь далайн түвшнээс дээш 1477 метрийн өндөрт оршдог.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEj1fNWtiQH5kTJpulP0b7RIAwgxbQTBxX0UT8m9MJsg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXevdK02UXaDlTU3oiJ6cTxslrd7ExYJaLNOumai3bA&s=10"
             ]
         },
         {
@@ -930,8 +930,8 @@ const provinceInfo = {
             location: " Хутаг-Өндөр сум, Булган аймаг",
             description: "Сэлэнгэ мөрний хойд хөвөөнд орших Уйгурын үеийн Байбалык хотын туурь юм. Нутгийнхан эртнээс энэ газрыг Бийбулагийн балгас хэмээн нэрлэж иржээ. Дурсгал нь НТ VIII зуунд хамаардаг",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhnc5k-IUyAcuyOL0Y5PlaSM_TrEU8XBRI63NCz8Kvhg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTD055UN-6rbp8mCQFEu_wAuEtmGBQ1Yto3AajpqS4A&s=10"
             ]
         },
        
