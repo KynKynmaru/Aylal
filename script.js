@@ -944,7 +944,7 @@ const provinceInfo = {
             description: 'Орхон голын баруун биед цутгах Улаан голд үүссэн байгалийн үзэсгэлэнт хүрхрээ юм. Хүрхрээ нь 20 гаруй метрийн өндрөөс, ойролцоогоор 10 метрийн өргөнтэйгөөр буудаг. Орхон голын энэ хэсэг нь галт уулын гаралтай хүрмэн чулуун тогтоцтой.',
             photos: [
                 "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://cdn5.shoppy.mn/img/22980/1344x400xwebp/Ulaan-Tsutgalan-Banner-1.jpg?h=a517024739f0827a836cb1391a427cfa1492abed"
             ]
         },
 
@@ -953,8 +953,8 @@ const provinceInfo = {
             location: "Уянга сум , Өвөрхангай аймаг",
             description: "Хангайн нурууны өндөр уулсын дунд орших байгалийн өвөрмөц тогтоц бүхий газар юм. Галт уулын дэлбэрэлт, тектоник хагарал, суултын явцад үүссэн цар хэлбэрийн хотгорт Ширээт, Халиут, Бугат, Хаяа, Хүйс, Дөрөө, Шанаа, Мухар гэсэн найман нуур тогтжээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://nature.ov.gov.mn/uploads/image/2022/05/1920x0/1653823969_1db9e9b0053f1064a99d.jpg",
+                "https://nature.ov.gov.mn/uploads/image/2022/05/1920x0/1653297910_64e0f0aa35fb7840249e.jpg"
             ]
         },
         {
@@ -962,8 +962,8 @@ const provinceInfo = {
             location: "Бат-Өлзий сум , Өвөрхангай аймаг",
             description: "Шивээт Улаан уулын хадархаг оройд байрлах түүхэн дурсгалт хийд. 1651 онд Өндөр гэгээн Занабазарын байгуулсан “Дубхан” буюу “Бүтээх байр”-аас үүсэлтэй. Өндөр гэгээн Занабазар энд бясалгал үйлдэж, уран бүтээлээ туурвиж байсан бөгөөд 1686 онд Соёмбо үсгийг зохиосон гэж тэмдэглэгддэг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://www.nio.mn/wp-content/uploads/2024/05/Tuvhun-hiid-940x520-1.jpg",
+                "https://resource4.sodonsolution.org/24tsag/photo/2014/7/935b4ae8e956d4cc/049dfe28827cf0dcoriginal.jpg"
             ]
         },
         {
@@ -971,8 +971,8 @@ const provinceInfo = {
             location: "Хархорин сум, Өвөрхангай аймаг",
             description: "Орхоны хөндий нь Монголын эртний түүх, соёлын чухал дурсгалууд төвлөрсөн нутаг юм. Энд эртний Хархорум хотын туурь, Эрдэнэ Зуу хийд зэрэг түүх, археологийн дурсгалууд оршдог. Орхоны хөндийн соёлын дурсгалт газар нь 2004 онд ЮНЕСКО-гийн Дэлхийн өвд бүртгэгдсэн.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://content.ikon.mn/news/2014/9/5/893430_010-091637-1682756636_x974.jpg",
+                "https://news.mn/wp-content/uploads/2023/01/FB_IMG_1524309068692-580x365.jpg"
             ]
         },
         {
@@ -980,8 +980,8 @@ const provinceInfo = {
             location: "Хархорин сум, Өвөрхангай аймаг",
             description: "Эрдэнэ Зуу хийдийг 1586 онд Автай сайн хан байгуулсан бөгөөд 1965 онд улсын зэрэглэлтэй Шашны түүхийн музей болгосон. Музейд Монголын шашин, урлагийн түүхтэй холбоотой олон үнэт үзмэр хадгалагддаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://news.mn/wp-content/uploads/2025/01/unnamed-1-580x365.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6UEq66kRtlfIjMl6q8KMHQQPMdHL3I93msDLdPfdM2XxVdgjMu4SMs2ZQ&s=10"
             ]
         },
           {
@@ -989,8 +989,8 @@ const provinceInfo = {
             location: "Богд сум, Өвөрхангай аймаг",
             description: "Арц Богд уул нь Бага Богд уулын зүүн хоолойгоор зааглагдаж, баруун үзүүр нь Бага Богд уултай 20 гаруй км газраар зөрж орших уулын тогтоц юм. Салбар уулсын хамт ойролцоогоор 180 км үргэлжилдэг бөгөөд ноён оргил нь 2477 м өндөр Их Баян уул юм.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://www.touristinfocenter.mn/Images/Cate/1/Arts%20bogdiin%20nuruu.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3r6ucZMKP3pv3ADxI5qWVaP9TE2SyzYjYfMM2dlX9OAUtMdPp1mHAOlR1&s=10"
             ]
         },
         {
@@ -998,8 +998,8 @@ const provinceInfo = {
         location: "Богд сум, Өвөрхангай аймаг",
             description: "Уулын орчимд булш, хиргисүүр, хадны сүг зураг олноор байдаг бөгөөд хүрэл зэвсгийн үеэс дундад зууны үед холбогдох 200 гаруй археологийн дурсгал бүртгэгдсэн байна. Хадны зурагт буга, янгир, адуу, тэмээ, нохой зэрэг амьтан, мөн анчин гөрөөчин, мал аж ахуйтай холбоотой дүрслэлүүд байдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://www.touristinfocenter.mn/Images/Cate/1/xj2iizej.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7iyxksHpoICBVV5ViO2Ehqfy0zzklzj47Wh4-EoCqlLhUcdl2N6OrNoM&s=10"
             ]
         },
        
@@ -1012,7 +1012,7 @@ const provinceInfo = {
             description: ' Тус нутгаас олон мянган чулуун зэвсгийн дурсгал, ваарны хагархай олдсон бөгөөд Баянзагийн суурин нь шинэ чулуун зэвсгийн үед холбогдоно. Мөн Баянзаг нь палеонтологийн олдвороороо алдартай бөгөөд Монголын үлэг гүрвэлийн судалгаатай холбоотой дэлхийд танигдсан газар юм.',
             photos: [
                 "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJhvJC_6Tx4Os7_chRCM1QdDa5i8uBYqWVCkCYDDkDZud4vnSrjlKOU86&s=10"
             ]
         },
 
@@ -1021,8 +1021,8 @@ const provinceInfo = {
             location: "Уянга сум , Өмнөговь аймаг",
             description: "Хонгорын элс нь Сэврэй, Зөөлөн уулын нурууны араар баруунаас зүүн тийш ойролцоогоор 180–185 км үргэлжилсэн томоохон элсэн манхан юм. Манхнуудын өндөр 10–195 метр хүрдэг бөгөөд салхилах үед өвөрмөц дуу чимээ гаргадаг Дуут манхан нь энд оршдог",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://media.mass.mn/ckeditor_assets/pictures/13541/content_img0128ms.jpg",
+                "https://www.arav.mn/images/news/main/54eabb7d5164bc5a4cf5e2023529cfcb.jpg"
             ]
         },
         {
@@ -1030,8 +1030,8 @@ const provinceInfo = {
             location: "Даланзадгад сум , Өмнөговь аймаг",
             description: "Говь гурван сайхан нь Өмнөговь аймгийн нутагт орших Монголын говийн бүсийн томоохон уулын тогтоц бөгөөд Говь гурван сайханы байгалийн цогцолборт газар нь говийн өвөрмөц экосистем, уул хад, хавцал, баянбүрд, ховор амьтан ургамлыг хамгаалдаг. Тусгай хамгаалалттай газар нь Гурвансайхан, Зүүнсайхан, Дундсайхан, Баруунсайхан зэрэг уулсыг хамардаг. Мөн Ёлын ам зэрэг аялал жуулчлалын алдартай газрууд энд байрладаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydu4Hd1fXN7baYTGHKb6f0qNHAIZ4c2Tff6NOobCCPnO8jrEId-SSSGY&s=10",
+                "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gurvger.jpg?utm_source=mn.wikipedia.org&utm_campaign=index&utm_content=original"
             ]
         },
         {
@@ -1039,8 +1039,8 @@ const provinceInfo = {
             location: "Ноён сум, Өмнөговь аймаг",
             description: "Толь хад нь Ноён сумын нутагт орших байгалийн үзэсгэлэнт газар. Ойролцоогоор 2–3 метр өндөр, 7–8 метр өргөн ханан хад бөгөөд гадаргуу нь хүчтэй үрэлтээс үүссэн толь мэт гялгар байдгаараа ийнхүү нэрлэгджээ. Мөн 60 гаруй км-ийн зайд орших Хатан Сэврэй уулын дүрсийг тод харуулдаг гэж тэмдэглэсэн байдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://news.mn/wp-content/archive1/blog/photo/2015/5/13/255290ba46db528bb5714fdc7be4652foriginal.jpg",
+                "https://publicregistration.gov.mn/rest/attractions/attr3_20260505141036.jpg"
             ]
         },
         {
@@ -1048,8 +1048,8 @@ const provinceInfo = {
             location: "Ханхонгор сум, Өмнөговь аймаг",
             description: "Ёлын ам нь Өмнөговь аймгийн Ханхонгор сумын нутаг дахь Зүүнсайхан ууланд, Говь гурвансайханы байгалийн цогцолборт газрын хамгаалалттай бүсэд оршдог. Хавцал, хад асга бүхий өвөрмөц тогтоцтой бөгөөд говийн байгаль, амьтан ургамлыг үзэх аялал жуулчлалын гол газруудын нэг юм.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://montsame.mn/files/5fd30e5c350b1.jpeg",
+                "https://montsame.mn/files/5fd30e6c4e170.jpeg"
             ]
         },
     ],
@@ -1061,7 +1061,7 @@ const provinceInfo = {
             description: ' Хөвсгөл аймгийн хамгийн өндөр цэг болох Мөнх Сарьдаг уул (3491 м) энд оршдог. Энэ бүс нутаг нь ой тайга, өндөр уул, хээрийн экосистем хосолсон бөгөөд ирвэс, хүдэр, хүрэн баавгай, аргал угалз, халиун буга зэрэг ховор амьтан, ургамлын чухал нутаг юм.',
             photos: [
                 "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://www.touristinfocenter.mn/Images/Cate/1/%D0%A1%D0%BE%D1%91%D0%BD%D1%8B%20%D0%BD%D1%83%D1%80%D1%83%D1%83.jpg"
             ]
         },
 
@@ -1070,8 +1070,8 @@ const provinceInfo = {
             location: "Алаг-Эрдэнэ сум , Хөвсгөл аймаг",
             description: "Хөвсгөл нуур нь Монголын хамгийн их эзлэхүүнтэй, хамгийн гүн нуур бөгөөд дэлхийн эртний 17 нуурын нэг юм. Нуурт 46 гол, горхи цутгадаг бөгөөд ганцхан Эгийн гол эх авч Сэлэнгэ мөрөнд цутгана. Хөвсгөл нуурын байгалийн цогцолбор газар нь Сибирийн тайга болон Төв Азийн хээрийн бүсийн заагт оршдог.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://news.mn/wp-content/uploads/2020/09/%D0%A5%D3%A9%D0%B2%D1%81%D0%B3%D3%A9%D0%BB_%D0%BD%D1%83%D1%83%D1%80.jpg",
+                "https://khovsgol.gov.mn/uploads/image/2022/06/1920x0/1655430728_19c9152385c0fc7da7d6.jpg"
             ]
         },
         {
@@ -1079,8 +1079,8 @@ const provinceInfo = {
             location: "Цагаан-Үүр сум ,Хөвсгөл аймаг",
             description: "Даян дээрхийн агуй нь Цагаан-Үүр сумын төвөөс зүүн тийш ойролцоогоор 35–38 км, Дээрхийн гол, Үүрийн голын бэлчир орчимд орших Монголын томоохон агуйнуудын нэг юм. Агуй нь 10 гаруй тасалгаатай, том жижиг 3 амтай, дотроо олон хонгил, рашаан бүхий ховор тогтоцтой. 2006 онд улсын тусгай хамгаалалтад авсан байгалийн дурсгалт газар юм.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://khovsgol.gov.mn/uploads/image/2023/01/1920x0/1673946091_f7101cae9ac87728f6ee.jpg",
+                "https://media.mass.mn/system/mass_articles/articles/title_images/000/003/499/highlight/9137221_orig.jpg"
             ]
         },
         {
@@ -1088,8 +1088,8 @@ const provinceInfo = {
             location: "Бүрэнтогтох сум, Хөвсгөл аймаг",
             description: "Улаан Уушиг уулын өвөрт орших хүрлийн үеийн археологийн цогцолбор дурсгал. Энд буган чулуун хөшөө, хиргисүүр, булш, тахилгын байгууламжууд нэг дор байрладаг бөгөөд 30 орчим буган хөшөө бий. Дурсгалын он цагийг НТӨ II–I мянганд хамааруулдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://mongoltoli.mn/history/img/news/history_1481686031.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBRhClFL7E0UJhRNj8_e0j0P_MviaGwTpGDinw69GC6vLdBvYT2d7-Bsvj&s=10"
             ]
         },
         {
@@ -1097,8 +1097,8 @@ const provinceInfo = {
             location: "Алаг-Эрдэнэ сум, Хөвсгөл аймаг",
             description: "Улаан толгойн буган хөшөө нь Алаг-Эрдэнэ сумын 1-р багийн Эрхэлийн Улаан толгой гэдэг газар, Эрхэл нуурын баруун талд оршдог. Энд 5 буган хөшөө болон хэд хэдэн дөрвөлжин, дугуй хиргисүүр бий. Хөшөөдийн нэг нь ойролцоогоор 3.4–3.7 метр өндөр бөгөөд Монголын хамгийн өндөр буган хөшөөдийн нэгээр тэмдэглэгддэг. Хөшөөн дээр нар болон бугын дүрслэл сийлсэн байна.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLHDj8x08QDgUs--5zKVeJcjXN5pf8wH4SVx69rVSzuPmxJgUs20TNa0y&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6R35kXbAj49ovTErPj4x_NCeyY3xVHT7VwNFrXX14GMuQx-2KXZiU4KT&s=10"
             ]
         },
         {
@@ -1106,8 +1106,8 @@ const provinceInfo = {
             location: "Цагааннуур сум, Хөвсгөл аймаг",
             description: "Цаатны нутаг нь Хөвсгөл аймгийн тайгын бүсэд цаа буга маллан, нүүдлийн ахуйгаар амьдардаг цаатан буюу Духа иргэдийн нутаг юм. Цаатан иргэдийн нутагшил нь Улаан-Уул, Рэнчинлхүмбэ, Баянзүрх, Ханх зэрэг сумдыг хамардаг. Харин нэг сум сонгож тэмдэглэх шаардлагатай бол Цагааннуур сум нь цаатан соёл, ахуйтай холбоотой албан ёсны мэдээллүүдэд тодорхой дурдагддаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://news.zindaa.mn/uploads/images/ReindeerPeople.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoZ2-q6Dd4UdSqaU2NJFAcyYc6bNLe-jtBrZEyMZ_-vpxL_xNrDh6-nk&s=10"
             ]
         },
     ],
@@ -1119,7 +1119,7 @@ const provinceInfo = {
             description: 'Чингис хааны төрсөн нутаг хэмээн уламжлагдан түүхэнд тэмдэглэгдсэн газар юм. Энд Чингис хааны мэндэлсэн газрыг тэмдэглэсэн “Чингисийн гурван нуур” орчмын дурсгалууд болон түүхэн дурсгалт газрууд бий. Дадал сум нь Онон-Балжийн сав газар, Хэнтийн нурууны байгалийн үзэсгэлэнт бүстэй холбогддог.',
             photos: [
                 "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZeLlHQzQuIwafSkBDRFos9GMi4YNxt0t04iDq9PCoahYC7zABxqHyeE0&s=10"
             ]
         },
 
@@ -1128,8 +1128,8 @@ const provinceInfo = {
             location: "Цэнхэрмандал сум , Хэнтий аймаг",
             description: "Хар зүрхний Хөх нуур нь Хар зүрх уулын өвөрт, далайн түвшнээс дээш 1675 м өндөрт орших холбоотой том, жижиг хоёр цэнгэг нуур юм. Цэнхэрмандал сумын төвөөс баруун хойш 35 км орчимд байрладаг. 1189 онд Тэмүүжинг Хамаг Монголын хаанд өргөмжилсөн түүхэн газар хэмээн тэмдэглэгддэг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://images.uwish.travel/content/image/1f61420e-e4d8-429e-89e8-cd7a2042edee_native.jpg",
+                "https://www.touristinfocenter.mn/Images/Cate/1/%D0%A5%D0%B0%D1%80%20%D0%B7%D2%AF%D1%80%D1%85%D0%BD%D0%B8%D0%B9%20%D0%A5%D3%A9%D1%85%20%D0%BD%D1%83%D1%83%D1%80.jpg"
             ]
         },
         {
@@ -1137,8 +1137,8 @@ const provinceInfo = {
             location: "Батширээт сум ,Хэнтий аймаг",
             description: "Бурхан Халдун уул нь Хэнтий нуруунд орших Монголын түүх, соёлын онцгой ач холбогдолтой тахилгат уул юм. Монголын нууц товчоонд Чингис хааны амьдралтай холбогдон олонтаа дурдагддаг. Бурхан Халдун болон түүнийг хүрээлсэн тахилгат газар нутгийг 2003 онд ЮНЕСКО-гийн Дэлхийн өвийн жагсаалтад бүртгэсэн.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLEzOkjHEWSEkDYXaZIHxUSuvaKkO7nglTUiN6svuSoQjp2SoFXMSuiFi&s=10",
+                "https://touristinfocenter.mn/Images/Cate/1/Burhan%20Haldun.jpg"
             ]
         },
         {
@@ -1146,8 +1146,8 @@ const provinceInfo = {
             location: "Дэлгэрхаан сум, Хэнтий аймаг",
             description: "Хэрлэнгийн хөдөө арал нь Хэнтий аймгийн Дэлгэрхаан сумын нутагт, Хэрлэн мөрний их тохойд орших түүхэн газар юм. Энэ нутагт Их Ауруг орд байсан бөгөөд 1240 онд “Монголын нууц товчоо”-г бичиж дуусгасан гэж уламжлагдсан Долоон болдог, Шилхинцэгийн орчим багтдаг. 1962, 1998 онд улсын нөөц газар болгон хамгаалсан байна.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4QYMLKSsZQcCKBGi0ctlWPwP56ao39xkdOc0uF1ZQoUnRzz52xYVXzwS&s=10",
+                "https://www.touristinfocenter.mn/Images/Cate/1/%D0%A5%D3%A9%D0%B4%D3%A9%D3%A9%20%D0%B0%D1%80%D0%B0%D0%BB.jpg"
             ]
         },
         {
@@ -1155,8 +1155,8 @@ const provinceInfo = {
             location: "Баян-Адарга сум, Хэнтий аймаг",
             description: "Дуурлиг нарсны Хүннүгийн булш нь Хэнтий аймгийн Баян-Адарга сумын нутагт орших Хүннүгийн үеийн томоохон археологийн дурсгалт газар юм. Тус газарт Хүннүгийн язгууртны болон жирийн иргэдийн булш, оршуулгын байгууламжууд байдаг бөгөөд Хүннүгийн нийгэм, соёл, зан заншлыг судлахад чухал ач холбогдолтой. Дурсгал нь НТӨ III–НТ I зуунд холбогдоно.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZLo4XxDdvQatnkUi1mDviOpZdViTg5QT69UFQwTr9qt69pNLYsiNB8Rh&s=10",
+                "https://mongoltoli.mn/history/img/news/history_1482040488.JPG"
             ]
         },
         {
@@ -1164,8 +1164,8 @@ const provinceInfo = {
             location: "Хэрлэн сум, Хэнтий аймаг",
             description: "Халхын Сэцэн хан аймгийн хангуудын төрийн болон зуны ордны цогцолбор. Анх 1691 онд суурь нь тавигдсан бөгөөд одоо хадгалагдан үлдсэн 5 барилгад түүх, угсаатны зүй, шашин, Сэцэн хан болон Чингисийн үеийн холбогдолтой үзмэрүүдийг дэлгэн үзүүлдэг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://mgl.gogo.mn/newsn/images/ck/2020/04/20/%D1%8F2-173251-1265107554.jpeg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHPF5Aki9Mzcvy0H7nBZ4_5Iv324xbxhAXWm5UM3EM89tMNKxA816JEg&s=10"
             ]
         },
         {
@@ -1173,8 +1173,8 @@ const provinceInfo = {
             location: "Өмнөдэлгэр сум, Хэнтий аймаг",
             description: "Балдан Брайвун хийд нь Дэлгэрхаан уулын өвөрт 1777 онд боржин чулуугаар баригдсан түүхэн хийд юм. Ар Халхын “Утай Гүмбэн” хэмээн нэрлэгдэж байсан томоохон хийд бөгөөд 1930-аад оны хэлмэгдүүлэлтийн үед эвдэгдэн сүйдсэн. Өнөөдөр хуучин хийдийн суурин дээр жижиг хийд үйл ажиллагаа явуулж байна. Хийдийн орчимд нарс, шинэс бүхий ой, боржин чулуун уулс болон хаданд товойлгон сийлсэн Манзушир бурханы дүр байдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQM6A9JZiO3p1Q0Bvpu1XXFCXp8Fx6oyt9vzMuX06j7aOrbpOLm-jWL4c&s=10",
+                "https://cdn.itoim.mn/media/imagel/1270-tuukh-domgiin-survalj-khukh-nuur/image.jpeg?size=w800"
             ]
         },
     ],
@@ -1186,7 +1186,7 @@ const provinceInfo = {
             description: 'Отгонтэнгэр хайрхан нь Хангайн нурууны ноён оргил бөгөөд далайн түвшнээс дээш 4021 метр өндөр. Монголчууд эртнээс Очирваань хэмээн хүндэтгэн шүтэж ирсэн, төрийн тахилгат уул юм. 1992 онд Отгонтэнгэрийн дархан цаазат газрыг байгуулж, 1995 онд дархан цаазат газрын ангиллаар баталгаажуулсан.',
             photos: [
                 "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://cdn5.shoppy.mn/img/57104/736x368xwebp/ot800.jpg?h=bde033cfe4e42ebc7fecca5a0ea2364f154d8f0d"
             ]
         },
 
@@ -1195,8 +1195,8 @@ const provinceInfo = {
             location: "Отгон сум, Завхан аймаг",
             description: "Отгонтэнгэр хайрханы баруун талд орших Их Даян, Бага Даян гэсэн хоёр сүрлэг уулыг Даян хайрхан хэмээн нэрлэдэг. Далайн түвшнээс ойролцоогоор 2500 м өндөр бөгөөд хоёр талд нь Хөх, Цагаан нуур оршино. Нутгийн уламжлалт домогт эрэгтэй, эмэгтэй хүмүүс Даян хайрханы дэргэд мөргөж залбирвал үр хүүхэд заяадаг хэмээн шүтэж ирсэн тул “Үр хайрлах шидтэй Даян хайрхан” гэж нэрлэдэг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToKPv7VWxcFhluC2JTdzaiKnO6D-E_UsmA4G-w794O0b3ELRHNx2kqEDo&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlThbwcFk3bpiKye9JtSZ0JGSh4z_AUVc61RntGCfVXtsfD6wkLSdgE88&s=10"
             ]
         },
         {
@@ -1204,8 +1204,8 @@ const provinceInfo = {
             location: "Отгон сум ,Завхан аймаг",
             description: "Цагаан нуур нь Даян хайрханы баруун бэлд, Хөх нуураас холгүй 2230 м өндөрт орших цэнгэг уст нуур. Мөстлөгийн морены хурдсаар тогтсон бөгөөд 3.1 км² талбайтай, 3.6 км урт, 1.6 км өргөн, 28 м хүртэл гүнтэй. Их, Бага Даян хайрханы хормойд байрладаг үзэсгэлэнт нуур юм.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQ7e7MeXLH4F4k3MSQiM51qHY97s3rF0bgo6piEaeeTssLFmOjQdVeWE&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXkw9IyrK5N9kRMJU1apYcUkPFaKLi3mVi4CzHx6FMDENcp2ztVr5Fo8&s=10"
             ]
         },
         {
@@ -1213,8 +1213,8 @@ const provinceInfo = {
             location: "Идэр сум, Завхан аймаг",
             description: "Ногоон нуур нь Овоот уулын бэл, Идэр голын зүүн талд орших үзэсгэлэнт нуур. Ус нь ногоон өнгөөр харагддаг бөгөөд тунгалаг, загас нь тод харагддаг. Нуураас жижиг цутгал гарч Идэр голд нийлдэг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSQO5EL19rePwxK7tRMUYyA0RHdYDJtRfaM0XHhihe7YLIDSUalCnWh7Q&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCn7sCsYHo3ejZCn20VNHkmb3wpaDlP32iWMR0YCPhro2frJ46HuVucJc&s=10"
             ]
         },
         {
@@ -1222,8 +1222,8 @@ const provinceInfo = {
             location: "Эрдэнэхайрхан сум, Завхан аймаг",
             description: "Улаагчны Хар нуур нь цэнгэг уст, байгалийн үзэсгэлэнт нуур бөгөөд хойд талаараа элсэн манхан, урд талаараа Товхошийн сүрлэг уулсаар хүрээлэгдэнэ. Нуурын урт нь ойролцоогоор 30 км, гүн нь 48 м хүрдэг бөгөөд дунд нь Их, Бага Авгаш нэртэй арлууд оршдог. Мөн омуль, пельд зэрэг загас болон нүүдлийн шувуудтай.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://news.zindaa.mn/editor_imgs/shinee/3_say/16143004_1227324024015929_6433676911857870086_n.jpg",
+                "https://margaash.live/wp-content/uploads/2018/05/ulaagchiin-har-nurr_zawhan-aimag.jpg"
             ]
         },
         {
@@ -1231,8 +1231,8 @@ const provinceInfo = {
             location: "Эрдэнэхайрхан сум, Завхан аймаг",
             description: "Мухартын гол нь Бор хярын элсний өмнөд хэсэгт, 400–450 м орчим өндөр элсэн манхан доороос эх аван урсдаг байгалийн өвөрмөц тогтоцтой газар. Голын хөвөөгөөр бургасан шугуй ургаж, гоньд, дэгд, улаалзгана, нохойн хошуу зэрэг ургамал элбэг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://montsame.mn/uploads/content/8b311305d59479aa2f9280973c0ba486.png",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNLsXUsw-IDaNuYpgAnEa2V2m0n8Bzp8o7eCCsjTIe15_jrBqfId0xzwC6&s=10"
             ]
         },
         {
@@ -1240,8 +1240,8 @@ const provinceInfo = {
             location: "Сантмаргац сум, Завхан аймаг",
             description: "Дуут хад нь Сантмаргац сумын төвөөс зүүн хойш 23 км орчимд орших байгалийн өвөрмөц тогтоцтой хад бөгөөд Дуут буюу Дэрэн чулуу гэж нэрлэгддэг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1dFVWdtLtnNV6dR0kn3HnxaB_bIpTPIHXF3_qttfNOcMOm7WNMZ17seY&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gJ_3pww1tEwSfHsY7VVxlLHVa4ASxp0wk34Bg7mBw6BQczoUj08wqNA&s=10"
             ]
         },
         {
@@ -1249,8 +1249,8 @@ const provinceInfo = {
             location: "Идэр сум, Завхан аймаг",
             description: "Загастайн давааны хүн чулуу нь Завхан аймгийн Идэр сумын нутагт орших түүхэн дурсгалт хүн чулуу юм. Нутгийнхан эртнээс уг хүн чулууг “Загастайн эзэн савдаг” хэмээн нэрлэж, домог хууч яриатай холбон хүндэтгэн иржээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJyT5vxqN91DS6vdUqgiWDuWu5wCUyqz63C1WVmpdnMs6kQ9HvA8tV0qF&s=10",
+                "https://publicregistration.gov.mn/rest/attractions/attr1_20260505124552.jpg"
             ]
         },
     ],
@@ -1262,7 +1262,7 @@ const provinceInfo = {
             description: 'Цагаан дэлийн агуй нь Дорноговь аймгийн Айраг сумын нутагт орших карстын гаралтай агуй бөгөөд 2019 онд улсын тусгай хамгаалалтад авсан байгалийн дурсгалт газар юм.',
             photos: [
                 "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://content.ikon.mn/news/2019/6/13/3e1b73_4788bd6309029eb8b837bdd938cbd568_x974.jpg"
             ]
         },
 
@@ -1271,8 +1271,8 @@ const provinceInfo = {
             location: "Айраг сум, Завхан аймаг",
             description: "Нүдэнгийн хонхор нь Сайншандаас 80 км, Айраг сумын төвөөс 43 км орчимд орших байгалийн үзэсгэлэнт газар. Нүдэнгийн хадны завсраас рашаан гардаг бөгөөд ойролцоох тойромд хужиртай. Мөн Хөх өндөрийн тахилгат овоо, өвөрмөц хэлбэртэй хад чулуу болон Нүдэнгийн хийдийн туурь байдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWE2VWq9PPGuDeyo7OOjaHDhhFBxdX_jTB-ml0Z2909LBaaeSNMmkXJo&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDSTyQMVPoKgJAJpOrR5Mphj8yjU8853Mjg_huqZdPrJD4KEoLlwWCsGq&s=10"
             ]
         },
         {
@@ -1280,8 +1280,8 @@ const provinceInfo = {
             location: "Улаанбадрах сум ,Завхан аймаг",
             description: "Баянбогд хайрхан нь Улаанбадрах сумын төвөөс зүүн хойш 20-иод км-т орших, далайн түвшнээс 1053 м өндөр өвөрмөц тогтоцтой уул юм. 2010 онд Дорноговь аймгийн байгалийн есөн гайхамшгийн нэгээр батлагдсан бөгөөд 1997 онд аймгийн тусгай хамгаалалтад авчээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEH2m3cgdQV8C-XaZwOco61zYwoQ8TFHfwe-F6nEpd_kg952ptXBx6DC8&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtPXP1j1x2pyu7H7nNMy5O8LpQuSX0eS4-JkXGexyFAb5hJFfw3c9pHGe&s=10"
             ]
         },
         {
@@ -1289,8 +1289,8 @@ const provinceInfo = {
             location: "Дэлгэрэх сум, Завхан аймаг",
             description: "Цонжийн чулуу нь Дэлгэрэх сумын Аманшанд багийн нутагт, сумын төвөөс зүүн хойш 55 км орчимд орших өвөрмөц зургаан талт хүрмэн чулуун тогтоц юм. Босоо байрласан 6–7 м өндөр чулуун баганууд нь байгалийн даралт, хөрөлтийн явцад үүссэн бөгөөд Дорноговь аймгийн байгалийн есөн гайхамшгийн нэгээр бүртгэгдсэн.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5HAMIVBGFqzBmnJwffOgNwWLaV-cCnkJY7nC-davoFA5KMPVufwkQoSA_&s=10",
+                "https://www.touristinfocenter.mn/Images/Cate/1/zlxgsadt.jpg"
             ]
         },
         {
@@ -1298,8 +1298,8 @@ const provinceInfo = {
             location: "Эрдэнэ сум, Завхан аймаг",
             description: "Мөнхийн булаг нь Эрдэнэ сумын төвөөс ойролцоогоор 38 км-т, Адрамгийн уулын баруун хэсгийн хайлаас модтой аманд орших ширгэдэггүй мөнхийн устай булаг юм. Байгалийн үзэсгэлэнт газар бөгөөд Дорноговь аймгийн байгалийн есөн гайхамшгийн нэгээр бүртгэгдсэн.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28dtNdePLTX4vP_K6x2GUob8z7Dr2TDnBjltqz8buz1Z6tW-FGsKrYWyo&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRFfrKqlQtt6yPG70s-6t9WrXvMy1Px2XTlWI5_kcIssYZSSuMk9hHK0&s=10"
             ]
         },
     ],
@@ -1311,7 +1311,7 @@ const provinceInfo = {
             description: 'Чингисийн хэрмэн цав нь Хэнтий аймгийн Баян-Адрагаас эхлэн Дорнодын Баян-Уул, Цагаан-Овоо, Сэргэлэн, Гурванзагал сумдын нутгаар үргэлжилдэг эртний шороон хэрэмт дурсгал юм. Нийт урт нь ойролцоогоор 500–600 км бөгөөд хэрмийн дагуу харуулын зориулалттай жижиг дөрвөлжин, гурвалжин шороон далангууд бий.',
             photos: [
                 "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://content.ikon.mn/news/2015/4/10/5df751_11130153_437847466370179_3151382066633692569_o_x974.jpg"
             ]
         },
 
@@ -1320,8 +1320,8 @@ const provinceInfo = {
             location: "Цагаан-Овоо сум, Дорнод аймаг",
             description: "Хэрлэн Барс хот нь Киданы үеийн X–XI зууны эртний хотын туурь юм. Хотын дөрвөлжин шороон хэрэм болон 7 давхар суварга, цамхгийн үлдэгдэл хадгалагдан үлджээ. Ойролцоогоор 7 м өндөр цамхаг нь хотын харуулын зориулалттай байсан гэж судлаачид үздэг. Улсын хамгаалалтад байдаг түүх, соёлын дурсгал юм.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsAyewoQMt5kF9sIExKpL-KuQ2xOeTLP6nxogVWfxIRqwL06fG0xMkYQ&s=10",
+                "https://www.touristinfocenter.mn/Images/Cate/1/%D0%A5%D1%8D%D1%80%D0%BB%D1%8D%D0%BD%20%D0%B1%D0%B0%D1%80%D1%81%20%D1%85%D0%BE%D1%82%D1%8B%D0%BD%20%D1%86%D0%B0%D0%BC%D1%85%D0%B0%D0%B3.jpg"
             ]
         },
         {
@@ -1329,8 +1329,8 @@ const provinceInfo = {
             location: "Халхгол сум ,Дорнод аймаг",
             description: "Буйр нуур нь Монголын зүүн хязгаарт, Хятадтай хил залгаа орших томоохон цэнгэг нуур. 615 км² орчим талбайтай, 40 км урт, 21 км өргөн, далайн түвшнээс 583 м өндөрт оршдог. Халх голоор тэжээгдэж, Оршуун голоор илүүдэл усаа Далай нуурт өгдөг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKKTfuFT6SjHMOJI6KbBHGxp1o5CTcr68KtEhrMYv9mjgxghbavVTErk0&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAILZfG6iCFo-RThI9HjrHsw9fneYHliL9EQfhuNUF9SUo82PqLMX_iJC2&s=10"
             ]
         },
         {
@@ -1338,8 +1338,8 @@ const provinceInfo = {
             location: "Халхгол сум, Дорнод аймаг",
             description: "Их Бурхант нь Халх голын баруун эргийн налуу энгэрт, Сүмбэрээс хойш 35 км орчимд орших түүх, соёлын дурсгалт цогцолбор. То ван буюу Бат-Очирын Тогтохтөрийн санаачилгаар 1859–1864 онд бүтээсэн бөгөөд 30 метр орчим урт хэвтээ Жанрайсиг бурхан, түүнийг хүрээлсэн суварга, жижиг бурхад, ланз үсгийн чулуун зохиомж бүхий цогц бүтээл юм.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjXXy7d1nGrpqNbV-rlI6fMeNYKzpl_4aXkvHIdTIR16c2chJ4oSVHXAxW&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0hiSru8desGu_Z0lamBpUvZur-E2Psu2DbNwVVLpfVJT2NPzWH7UgUoF&s=10"
             ]
         },
         {
@@ -1347,8 +1347,8 @@ const provinceInfo = {
             location: "Халхгол сум, Дорнод аймаг",
             description: "Хамар даваан дээрх Ялалтын хөшөө нь 1939 оны Халхын голын дайны ялалтад зориулан 1984 онд, дайны ялалтын 45 жилийн ойгоор босгосон түүхэн дурсгалт хөшөө юм. Хөшөө нь 54–55 метр өндөр, 110 тонн зэсээр бүтсэн бөгөөд Монгол, Зөвлөлтийн цэргүүд болон дайны үеийн цэрэг, техникүүдийг дүрслэн харуулсан.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7e4lSGjjaduE1ykrlSlVrGlZeC8lsEfk398tU3N_Gig&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQm_fO-1AGpKnVMgL_6sGPM0c8St7LPqVVQzbmRSdGQ&s=10"
             ]
         },
          {
@@ -1356,8 +1356,8 @@ const provinceInfo = {
             location: "Халхгол сум, Дорнод аймаг",
             description: "Халх гол нь Их Хянганы нуруунаас эх авч, нийт 233 км урсаад Буйр нуурт цутгадаг гол. Монголын зүүн хэсгээр урсаж, Дорнод аймгийн Халхгол сумын нутгаар дайран өнгөрдөг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://www.touristinfocenter.mn/Images/Cate/1/hwnwfxft.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfNyCLa_Id3_-rVNWAk981E-RWS8FdYJdabvQPz46_1Cv6OhUEybUkBSy&s=10"
             ]
         },
         {
@@ -1365,8 +1365,8 @@ const provinceInfo = {
             location: "Халхгол сум, Дорнод аймаг",
             description: "Вангийн цагаан уул нь улсын хилээс 36 км орчимд, далайн түвшнээс 1099 м өндөрт орших эртний тахилгат уул юм. Их талын дунд орших тул 40–150 км-ийн алсаас харагддаг. Уулын тахилгыг 1937 онд зогсоож, 1990 онд сэргээсэн бөгөөд өдгөө 3 жил тутамд тахидаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NVklLXo6FnPkEdO3cxLxOVm1IFoHKHFRKqD2Lw8cJQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqPIrafVunwFzj7qDwIB-i1dJU_v91K_BaW1jKlsjRcGclWEznH9lr9uY&s=10"
             ]
         },
     ],
@@ -1377,8 +1377,8 @@ const provinceInfo = {
             location: "Давст сум, Увс аймаг ",
             description: 'Увс нуур нь Монголын хамгийн том нуур бөгөөд 84 км урт, 79 км өргөн, 3423 км² талбайтай. Их нууруудын хотгорт орших бөгөөд нуурын ай сав нь олон төрлийн байгаль, амьтныг багтаасан тусгай хамгаалалттай газар нутаг юм.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://content.ikon.mn/news/2021/5/11/txdw5f__3_x974.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1XuMJCl4I1JOklJLAsVuChveVoAc7RxTLWGOWDqHZwb9LwyKUtvj_-A&s=10"
             ]
         },
 
@@ -1387,8 +1387,8 @@ const provinceInfo = {
             location: "Хяргас сум, Увс аймаг",
             description: "Хяргас нуур нь Их нууруудын хотгорт орших тектоник гаралтай, эрдэст нуур юм. Далайн түвшнээс 1028 м өндөрт, ойролцоогоор 75 км урт, 31 км өргөн, хамгийн гүн хэсэг нь 80 м хүрдэг. 2000 онд Хяргас нуурын байгалийн цогцолборт газар байгуулагдсан.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://cdnp.cody.mn/spree/images/706305/large/hesquare.jpg",
+                "https://news.zindaa.mn/images/news/origin/12/BAYR4216.jpg"
             ]
         },
         {
@@ -1396,8 +1396,8 @@ const provinceInfo = {
             location: "Баруунтуруун сум,Увс аймаг",
             description: "Алтан элс нь Увс нуурын хотгорын зүүн хэсэгт орших Бөөрөг Дэл элсний зүүн хэсгийн өвөрмөц манхан элс юм. 1993 онд улсын тусгай хамгаалалтад авч, элсэн дороос эх авсан булаг, гол горхи, баян бүрд, унаган элсэн экосистем болон түүхийн дурсгалыг хамгаалдаг. Тус газар нь ойролцоогоор 177.5 мянган га талбайтай.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXjFIU5vggIkt6q0ILKh4bC3Nzi75VI0ZI3m31MiyCkHYJ_zmMerzftcJ&s=10",
+                "https://na.gogo.mn/newsn/thumbnail/1000/images/c/2014/03/-12032014-1394591407-355192953-altan_els.jpg"
             ]
         },
         {
@@ -1405,8 +1405,8 @@ const provinceInfo = {
             location: "Зүүнхангай сум, Увс аймаг",
             description: "Ханхөхийн уулс нь Увс, Хяргас нуурын хотгорыг зааглан орших, Хангайн нурууны баруун хойд үргэлжлэл болсон сүрлэг нуруу юм. Хамгийн өндөр оргил нь Дуулга уул — 2928 м. 2000 онд Ханхөхийн нурууны 2205 км² талбайг улсын тусгай хамгаалалтад авчээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://na.gogo.mn/newsn/thumbnail/1000/images/c/2017/07/212128-28072017-1501218125-602208971-%D1%85%D0%B0%D0%BD%D1%85%D3%A9%D1%85%D0%B8%D0%B8%CC%861.jpg",
+                "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/img/news/ublife_1501233002.png"
             ]
         },
         {
@@ -1414,8 +1414,8 @@ const provinceInfo = {
             location: "Ховд сум, Увс аймаг",
             description: "Гоожуурын хүрхрээ нь Хархираа–Түргэний уулсын баруун урд, Олон нуурын уулсад орших байгалийн үзэсгэлэнт газар. Гоожуурын гол 17 метрийн өндрөөс хүрхрээ болон унадаг бөгөөд нутгийнхан Хүрэн Ханангийн хүрхрээ гэж нэрлэдэг. Олон нуурын уулсад 108 орчим том, жижиг нуур бий.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRouBZQH5OC4yT7fAQE-JQaFeBc0cAuLMjsWCpzAnCYdyfL_G3Nib6j2cw&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbyaFYtfMRngThCCL5jhrk014WqybIUV50hIYWx14I4eIPh5vHXcD4J3M&s=10"
             ]
         },
          {
@@ -1423,8 +1423,8 @@ const provinceInfo = {
             location: "Давст сум, Увс аймаг",
             description: "Мөнгөн Цахир уул нь Давст сумын төвөөс ойролцоогоор 50 км-т, далайн түвшнээс 1600 м өндөрт орших, цагаан саарал шохойн гантиг чулуунаас тогтсон мөнгөлөг цагаан өнгөтэй уул юм. Уулын хаданд буга, янгир, тамга тэмдэг, хүний нүүр дүрсэлсэн хадны зураг, сийлмэл дурсгалууд байдаг. Монгол Улсын байгалийн дурсгалт газарт хамрагддаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4b6Q0Re_Wxfj1tI1PJVaq-KmbGMSyJMXdJHwXOhu8Aul-hmiJp6LajUs&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkHaYxZx-ytq_mIcq0a52w8g55eCJfxTzk4jZTTBaxfa96yQGihndUX-E&s=10"
             ]
         },
         {
@@ -1432,8 +1432,8 @@ const provinceInfo = {
             location: "Улаангом сум, Увс аймаг",
             description: "Чандмань уулын дурсгал нь Улаангомын баруун өмнөд хэсэгт орших Түрүү төмрийн үеийн археологийн дурсгалт газар юм. Эндээс олон булш илэрсэн бөгөөд олдворуудыг судалснаар МЭӨ VII–III зууны Чандманий соёл хэмээх археологийн соёлыг тогтоосон.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKdmXYV4t136kxYaGN9vTEJlD-IoWHrG87MRkv_2oBSdrx_xtjTfsF0vL&s=10",
+                "https://mongoltoli.mn/history/img/news/history_1481857204.JPG"
             ]
         },
     ],
@@ -1444,8 +1444,8 @@ const provinceInfo = {
             location: "Манхан сум, Ховд аймаг ",
             description: 'Сэнхэрийн агуй буюу Хойд Цэнхэрийн агуй нь Манхан сумын төвөөс баруун хойш 25 км орчимд орших, палеолитын үеийн алдарт хадны зосон зураг бүхий археологийн дурсгал юм. Агуйн хананд арслан заан, аргаль, тэмээн хяруул, савгат хирс, зээр, могой зэрэг амьтдыг дүрсэлсэн эртний зураг хадгалагдан үлджээ.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://www.touristinfocenter.mn/Images/Cate/1/lpkf1ujx.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-hW0XZPjNnW-o22AuV4jb-TdDgFZWiTcX74uYDLBSBA&s=10"
             ]
         },
 
@@ -1454,8 +1454,8 @@ const provinceInfo = {
             location: "Манхан сум, Ховд аймаг",
             description: "Хар-Ус нуур нь Их нууруудын хотгорт орших Монголын томоохон цэнгэг уст нуур бөгөөд ойролцоогоор 72 км урт, 26 км өргөн. Нуурт Ховд, Буянт зэрэг голууд цутгаж, том жижиг олон аралтай. Хар-Ус нуур орчмыг 1997 онд улсын тусгай хамгаалалтад авч, байгалийн цогцолборт газар болгосон.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://isee.mn/uploads/news/4x3/2024/07/16/harrr.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdQ6bD_7cXpIljFdRxNDWsHvkCu_zHgLWMA0VUMBlE8nwDelDONreIDe9&s=10"
             ]
         },
         {
@@ -1463,8 +1463,8 @@ const provinceInfo = {
             location: "Мөнххайрхан уул,Ховд аймаг",
             description: "Мөнххайрхан уулын ноён оргил Таван хумст нь 4362 м өндөр бөгөөд мөнх цас, мөсөн голтой Монгол Алтайн сүрлэг уул юм. Уулын орчим 2006 онд улсын тусгай хамгаалалтад авч, байгалийн цогцолборт газар болгосон. Мөн Булган, Сэнхэр, Үенч, Бодонч зэрэг голуудын эх эндээс авдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9cezgJwwoCtjDxD07C-yDR9AB2QdKhfCXJh3TkxGr1vauOjkFMINZ7VkV&s=10",
+                "https://resource4.sodonsolution.org/unuudur/uploads/2021/11/Sutai_GGR53025.jpg"
             ]
         },
         {
@@ -1472,8 +1472,8 @@ const provinceInfo = {
             location: "Мянгад сум, Ховд аймаг",
             description: "Алтан Хөхий уул нь Ховд аймгийн Мянгад сум, Увс аймгийн Өмнөговь, Өлгий сумдын нутгийг дамнан орших томоохон нуруу. Хамгийн өндөр оргил болох Өндөр Хөхий нь 3350 м өндөр. Нутгийнхан эртнээс тахин шүтэж ирсэн бөгөөд 2005 оны 3-р сарын 30-ны Ерөнхийлөгчийн №44 зарлигаар төрийн тахилгат уул болсон.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkkSawtcOw3Pc9TczTQl9no5Twxzn-aDbbM9WjvRuE45b2sYXVaNNH80&s=10",
+                "https://ncch.gov.mn/Files/Immovable/135.jpg"
             ]
         },
         {
@@ -1481,8 +1481,8 @@ const provinceInfo = {
             location: "Ховд сум, Ховд аймаг",
             description: "Гоожуурын хүрхрээ нь Хархираа–Түргэний уулсын баруун урд, Олон нуурын уулсад орших байгалийн үзэсгэлэнт газар. Гоожуурын гол 17 метрийн өндрөөс хүрхрээ болон унадаг бөгөөд нутгийнхан Хүрэн Ханангийн хүрхрээ гэж нэрлэдэг. Олон нуурын уулсад 108 орчим том, жижиг нуур бий.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "ЭНД_1_ЗУРГИhttps://cdn5.shoppy.mn/img/64704/1020x510xwebp/Altan-Huhii.jpg?h=b10d622024960c5dc54a9cc0b7aec77831b3ff32ЙН_URL",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTl6B6uf_yskDaLoo-qlo9VUI4BKL_UVhkmxpIUvxMftvBi_Yjfu1UNr4&s=10"
             ]
         },
          {
@@ -1490,8 +1490,8 @@ const provinceInfo = {
             location: "Үенч сум, Ховд аймаг",
             description: "Ямаан усны хадны сүг зураг нь Үенч, Алтай сумдын заагт орших Ямаан усны хавцлын хаданд байдаг. Олон зуун хадны зурагт янгир, буга, зээр, адуу, тэмээ, чоно, мөн анчид, морин тэрэг зэрэг дүрслэл бий. Мөн энд түрэг бичээс илэрсэн бөгөөд 1973 онд анх судалгаанд бүртгэгдсэн.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://mongoltoli.mn/history/img/news/history_1482126044.jpg",
+                "https://ncch.gov.mn/Files/Immovable/136.jpg"
             ]
         },
         {
@@ -1499,8 +1499,8 @@ const provinceInfo = {
             location: "Эрдэнэбүрэн сум, Ховд аймаг",
             description: "Цамбагарав уулын байгалийн цогцолборт газар нь Ховд аймгийн Эрдэнэбүрэн, Баян-Өлгий аймгийн Алтанцөгц, Баяннуур сумдын заагт орших мөнх цаст өндөр уулын бүс юм. 2000 онд улсын тусгай хамгаалалтад авсан бөгөөд мөс судлал, цоохор ирвэс болон ховор амьтан, ургамлыг хамгаалах чухал ач холбогдолтой. Цамбагарав уулын өндөр 4208 м орчим.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzc2sr4BKAb3px3KKUwWpm75JLu6OFhpDxHNNqhS4B6XQQ8ZUNEDrxFbs&s=10",
+                "https://resource4.sodonsolution.org/assa/photo/2016/2/bf73c743eb1d194f/dc5bd04dbdbea91f.jpg"
             ]
         },
     ],
@@ -1511,8 +1511,8 @@ const provinceInfo = {
             location: "Гурвансайхан сум, Дундговь аймаг ",
             description: 'Их газрын чулуу нь Дундговь аймгийн Гурвансайхан, Говь-Угтаал сумдын нутгийг хамарсан, Монголын их боржин чулуулгийн бүсийн хамгийн том хэсгүүдийн нэг юм. Ягаан өнгийн боржин хад, хурц шовх оргил, хадан цохио бүхий өвөрмөц тогтоцтой бөгөөд 2012 онд Байгалийн цогцолборт газар болгон хамгаалалтад авсан.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCn_deIYfU3EEYOIPBet54Glg2bt9G29uONiNcmC2qSYIPAGPinGgvxE7I&s=10",
+                "https://news.mn/wp-content/uploads/2021/06/Screen-Shot-2021-06-12-at-3.34.32-PM-580x365.png"
             ]
         },
 
@@ -1521,8 +1521,8 @@ const provinceInfo = {
             location: "Өлзийт сум, Дундговь аймаг",
             description: "Дэл уул нь Өлзийт сумын Тагт багийн нутагт орших, зүүнээс баруун тийш ойролцоогоор 25 км сунасан хадархаг нуруу юм. Ууланд хадны 3000–5000 орчим зураг, эртний Түрэгийн руни бичээс, булш зэрэг олон үеийн археологийн дурсгал хадгалагддаг. Хадны зургууд нь хүрэл зэвсгийн үеэс эхлэн Түрэг болон Монголын үе хүртэлх түүхийг хамардаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5kex4FPNoGTvwP6wbru_NZiCn4f1IeBUKpvSlQQswUJdR-VX0pIhDzY&s=10",
+                "https://content.ikon.mn/news/2015/10/9/199659_11000042_467078106780448_8603821141515207511_n_x974.jpg"
             ]
         },
         {
@@ -1530,8 +1530,8 @@ const provinceInfo = {
             location: "Дэлгэрцогт сум,Дундговь аймаг",
             description: "Бага газрын чулуу нь Дэлгэрцогт сумын төвөөс баруун хойш 37 км орчимд орших, 1768 м өндөр, боржин чулуун уулс бүхий өвөрмөц тогтоцтой газар. Энд Жаргалантын агуй, Нүдний рашаан, Тахилгын хавцал, хадны зураг, эртний булш хиргисүүр зэрэг олон түүх, байгалийн дурсгал бий.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://montsame.mn/files/5ece242841908.jpeg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPOuy_dyOPdp1mAgGKUU2cu4cSxNhUSrCPdkPTRznLB2Ikgt0iLKbzxaDq&s=10"
             ]
         },
         {
@@ -1539,8 +1539,8 @@ const provinceInfo = {
             location: "Сайхан-Овоо сум, Дундговь аймаг",
             description: "Онгийн хийд буюу Гүнджамбаалин хийд нь Онгийн голын эрэг, Сайхан-Овоо уулын энгэрт орших түүхэн хийдийн туурь юм. 1760–1810 оны хооронд байгуулагдаж, ид үедээ 1000 гаруй ламтай, 28 сүм дугантай томоохон хийд байжээ. Өдгөө хийдийн туурь болон сэргээн засварласан нэгэн дуган үлджээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://www.touristinfocenter.mn/Images/Cate/1/adl4lhtw.jpg",
+                "https://resource4.sodonsolution.org/assa/photo/2015/9/249e16483213a0cb/94d1d406134f0e20.jpg"
             ]
         },
         {
@@ -1548,8 +1548,8 @@ const provinceInfo = {
             location: "Дэлгэрхангай сум, Дундговь аймаг",
             description: "Дэлгэрхангай уул нь далайн түвшнээс дээш 1920 метр өндөр, Дундговь аймгийн хамгийн өндөр цэг юм. Эрт үед Инэл хан хэмээн нэрлэгддэг байсан бөгөөд эртний төрийн тахилгатай уулын нэг юм. Оргил дээр нь “Алтан тэвш” хэмээх том талбай байдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8k8cbf2iYRmSY7YP9ywbbDro6Obthh78cfCCa4htYU3NOVRIUIpWqx0Vl&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1ZLigJ8zTir3Npl_n_k8NHCcGEyY1wr9sfICWtCAq_Va3q-nIFnGXBs&s=10"
             ]
         },
          
@@ -1561,8 +1561,8 @@ const provinceInfo = {
             location: "Дарьганга сум, Сүхбаатар аймаг ",
             description: 'Алтан овоо буюу Дарь-Овоо нь далайн түвшнээс 1354 м өндөр, эртний унтарсан галт уул юм. Дарьганга сумын төвийн дэргэд орших бөгөөд олон үеийн турш тахин шүтэж ирсэн төрийн тахилгат уул юм. 2004 онд Ерөнхийлөгчийн зарлигаар төрийн тахилгат уул болгосон.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://www.touristinfocenter.mn/Images/Cate/1/Altan%20ovoo.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbrEmvD8CEMNIKtpBzp-tJp9It1FHK4yMXT0ZNnM1qYw&s=10"
             ]
         },
 
@@ -1571,8 +1571,8 @@ const provinceInfo = {
             location: "Дарьганга сум, Сүхбаатар аймаг",
             description: "Шилийн Богд нь Дарьганга сумын төвөөс зүүн урагш ойролцоогоор 60 км-т, далайн түвшнээс 1778 м өндөрт орших унтарсан галт уул юм. Дарьгангын өндөрлөгийн 200 орчим унтарсан галт уулын хамгийн өндөр нь бөгөөд тогооны амсар нь ойролцоогоор 2 км өргөн, 300 м гүн.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqfHNx0K38aKvwkx8ZKCGnxm8sAeiuID8PhF4oz6oynQ&s=10",
+                "https://www.touristinfocenter.mn/Images/Cate/1/ldlruxel.jpg"
             ]
         },
         {
@@ -1580,8 +1580,8 @@ const provinceInfo = {
             location: "Дарьганга сум, Сүхбаатар аймаг",
             description: "Сүхбаатар аймаг нь Монголд хүн чулуун дурсгал хамгийн олноор төвлөрсөн нутгийн нэг бөгөөд ялангуяа Дарьгангын хүн чулуунууд XIII–XIV зууны үед холбогдоно. Дарьганга суманд Алтан овооны хүн чулуу, Хөргийн хөндийн хүн чулуунууд зэрэг олон дурсгал бий.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUszr10VEGWyJY2SApqwcC4BI-ZjPv-BLGq6DPgFfK6j6CEL8tavj6_vKy&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBM2bo5g28RCEnB0I5vHWmThKYTEsBjo5lAYxhPsFmmzo2WSTebTsbjpk3&s=10"
             ]
         },
         {
@@ -1589,8 +1589,8 @@ const provinceInfo = {
             location: "Дарьганга сум, Сүхбаатар аймаг",
             description: "Ганга нуур нь Дарьганга сумын нутагт орших цэнгэг уст нуур бөгөөд хун зэрэг нүүдлийн шувууд олноор чуулдгаараа алдартай. Нуур орчмын 32,860 га газрыг 1993 онд улсын хамгаалалтад авч, 2004 онд Дарьгангын байгалийн цогцолборт газрын бүрэлдэхүүнд оруулсан.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Bna7IfjKkApfrjoTyIPRqWttsWVk_ew9KL8M5KE8d734CXsIckVTfGTt&s=10",
+                "https://resource4.sodonsolution.org/24tsag/image/2023/04/11/lsjspaux9r6jwurn/%D0%9D%D2%AF%D2%AF%D0%B4%D0%BB%D0%B8%D0%B9%D0%BD%20%D1%88%D1%83%D0%B2%D1%83%D1%83%D0%B4%20%D0%B8%D1%80%D0%BB%D1%8D%D1%8D.jpg"
             ]
         },
         {
@@ -1598,8 +1598,8 @@ const provinceInfo = {
             location: "Эрдэнэцагаан сум, Сүхбаатар аймаг",
             description: "Егүзэрийн хийд буюу Өнө өглөгт хийд нь 1780 онд байгуулагдсан түүхэн хийд. Эрдэнэцагаан сумын нутагт, Алтан овооны урд энгэрт байрлаж байсан бөгөөд 1930-аад оны эхээр үйл ажиллагаа нь зогссон. 1992 онд хуучин хийдийн суурин дээр хийдийг сэргээн байгуулжээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIk5_gI94SJiid3D8dHbipFhU_kH1LU881By8MY49BkPnRGyRNrdQLGbH&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWpH-bWlHLBcTDEBJouXWTRyDxNaTJQZsX-kTggXSDAR3KKJ7B1ZLksH4&s=10"
             ]
         },
          
@@ -1611,8 +1611,8 @@ const provinceInfo = {
             location: "Баруунбүрэн сум, Сэлэнгэ аймаг ",
             description: 'Амарбаясгалант хийд нь Бүрэнхаан уулын өвөр, Ивэн голын хөндийд орших Монголын түүх, шашин, архитектурын томоохон дурсгал юм. Өндөр гэгээн Занабазарт зориулан XVIII зуунд байгуулсан бөгөөд Монголын ууган хийдүүдийн нэгэнд тооцогддог.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSRvmbTJt-E-ntdaXFOu13shRvobrSAOBPwp33sOUMnA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg5esb8JyDuR16P3Gr0fhK2BBCZEDsv4sU11NADpLhFw&s=10"
             ]
         },
 
@@ -1621,8 +1621,8 @@ const provinceInfo = {
             location: "Хүдэр сум, Сэлэнгэ аймаг",
             description: "Соронзон хад нь Хүдэр сумын нутагт орших байгалийн ховор тогтоцтой хад бөгөөд төмөрлөг зүйлсийг өөртөө татах соронзон шинжтэй гэдгээрээ онцлог. Хадны доогуур Төмөртэй гол урсдаг бөгөөд Сэлэнгэ аймгийн долоон гайхамшгийн нэгээр нэрлэгддэг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://margaash.live/wp-content/uploads/2019/03/soronzon-khad-selenge.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjIFZb7c_7AHjuS4os3iCoycBp6cW0u9Ceo8NeZNJoJKlGQnTKOO1P-D1&s=10"
             ]
         },
         {
@@ -1630,7 +1630,7 @@ const provinceInfo = {
             location: "Алтанбулаг сум, Сэлэнгэ аймаг",
             description: "Алтанбулаг сум нь 1921 оны Ардын хувьсгалын ялалтын өлгий нутаг юм. 1921 оны 3-р сарын 18-нд Ардын журамт цэрэг Алтанбулаг хотыг чөлөөлсөн түүхтэй. Тус суманд хувьсгалын музей, анхны бага сургууль, банк, шүүхийн байр зэрэг түүхэн дурсгалууд хадгалагддаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpomw6Tzj6HWKqeSvHOQcllr8e5NG4NpqnN8x5sqHVV0GBLN_3l-SGHHwe&s=10",
                 "ЭНД_2_ЗУРГИЙН_URL"
             ]
         },
