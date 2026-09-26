@@ -2614,7 +2614,7 @@ function showAbout() {
             <div class="about-page">
 
                 <div class="about-logo">
-                    O
+                <img src="logo.png" alt="Отгонтэнгэр их сургууль">
                 </div>
 
 
