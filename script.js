@@ -1631,7 +1631,7 @@ const provinceInfo = {
             description: "Алтанбулаг сум нь 1921 оны Ардын хувьсгалын ялалтын өлгий нутаг юм. 1921 оны 3-р сарын 18-нд Ардын журамт цэрэг Алтанбулаг хотыг чөлөөлсөн түүхтэй. Тус суманд хувьсгалын музей, анхны бага сургууль, банк, шүүхийн байр зэрэг түүхэн дурсгалууд хадгалагддаг.",
             photos: [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpomw6Tzj6HWKqeSvHOQcllr8e5NG4NpqnN8x5sqHVV0GBLN_3l-SGHHwe&s=10",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUNcw2upjSdEHGmuOPYyIwlaxHcpFKeVWeigl8XefKg2n1Jgi0V-sT978&s=10"
             ]
         },
         {
@@ -1639,8 +1639,8 @@ const provinceInfo = {
             location: "Хушаат сум, Сэлэнгэ аймаг",
             description: "Дуут хад нь Хушаат сумын төвөөс баруун хойш ойролцоогоор 6 км-т орших, хадны сүг зураг, булш, хиргисүүр бүхий түүх, археологийн дурсгалт газар. Өвөрмөц дуу авиа гардаг тул “Дуут хад” хэмээн нэрлэдэг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWo-_pJULUTZmsc7c52fOAWVdTR_CcVzD7XbRk1acg2A&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIftnbC8L-8ynOXS6cdEmIw1qZ8eUgq4z7dFmmKprqw&s=10"
             ]
         },
         {
@@ -1648,8 +1648,8 @@ const provinceInfo = {
             location: "Сүхбаатар сум, Сэлэнгэ аймаг",
             description: "Сайханы хөтөл нь Сэлэнгэ аймгийн төв Сүхбаатар хотоос 10-аад км-ийн зайд, Монгол-Оросын хил орчимд орших байгалийн үзэсгэлэнт газар. Энд Орхон, Сэлэнгэ мөрний бэлчир харагддаг бөгөөд 1921 оны Хиагтыг чөлөөлөх тулалдаанд Монголын журамт цэргүүд дайран өнгөрч байсан түүхтэй.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVdKoqUKdLPvfnhBJBV78kYotdNxcQpjrERFT6Ptq67w&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkENxZ4gO9NtgbfgXRjdajAVReVqWim4SKMNjXjNEXg&s=10"
             ]
         },
          
@@ -1661,8 +1661,8 @@ const provinceInfo = {
             location: "Шарын гол сум, Дархан-Уул аймаг ",
             description: 'Их Дархан уул нь Шарын гол сумын хойд талд орших, далайн түвшнээс 1239 м өндөр, орон нутгийн тахилгат уул юм. Нутгийн иргэд эртнээс тахин шүтэж ирсэн бөгөөд 2008 онд орон нутгийн хамгаалалтад авч, тахилгын журмыг баталсан.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlzeuREMw13pUg5QTjEf0vLGzexhHWLk-awaJ-BVOqDA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvlxL93hz3wNEUB0ei0cURYJa0lqiJYvQ-g5ANsC50g&s=10"
             ]
         },
 
@@ -1671,8 +1671,8 @@ const provinceInfo = {
             location: "Хонгор сум, Дархан-Уул аймаг",
             description: "Дурлалын мод нь Зулзагын голын амралтын бүсэд ургасан, хоорондоо орооцолдсон хоёр мод юм. Нутгийнхан хос модыг хайр дурлалын бэлгэдэл хэмээн үзэж, дэргэдэх жижиг овоонд “сайн хань заяаж хайрла” хэмээн залбирдаг уламжлалтай.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSBOop7xahW83EswzJ9sHJmOOmY-J3CMukO5AGIvKgg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCBcigU3GoUJAmjhY35ndW4iqOgOww3Aac5lEmo3gC7S_MOnDTYRx3I-4&s=10"
             ]
         },
         {
@@ -1680,8 +1680,8 @@ const provinceInfo = {
             location: "Шарын гол сум, Дархан-Уул аймаг",
             description: "Шарын голын зосон зураг нь Дарханаас хойш ойролцоогоор 25 км-т, Шарын голын хөндийд орших археологийн дурсгал. 1980 онд илрүүлсэн бөгөөд хаданд улаан зосоор бүргэд маягийн шувуу, дөрвөн морь, хүний дүрс болон цэгэн тэмдэг зурсан байдаг. Судалгаагаар хүрэл зэвсгийн сүүл үе буюу МЭӨ II зуунд хамааруулдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsfeNzFeVqO12KirHKx8iaHGFKdHKbuShwAYJd47FAw&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31mqIzLyVvT04orXwW090__390dhPC6ax3a-glru6zg&s=10"
             ]
         },
         {
@@ -1689,8 +1689,8 @@ const provinceInfo = {
             location: "Хонгор сум, Дархан-Уул аймаг",
             description: "Буурал уулын өвөрт Монголын эзэнт гүрний үед холбогдох 27 булш байдаг. Мөн Буурал уулын зүүн шувтрагын энгэрт Хүннүгийн үеийн 20-иод дугуй булш бүртгэгдсэн байна.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgz5mivV7U2k6XX8oIWtdmkp5ClbpYKaWnCnI4RQkpg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIaPDqiSOJO3K6wKPAb0PA1W-NeCy1fqphs84jKPLDcA&s=10"
             ]
         },
         {
@@ -1698,8 +1698,8 @@ const provinceInfo = {
             location: "Хонгор сум, Дархан-Уул аймаг",
             description: "Хүйтэний голын Бичигт хошууны хаданд монгол болон дөрвөлжин бичээс, мөн зосон зураг хадгалагддаг түүх, археологийн дурсгал. Монгол бичээс нь XIII–XIV зуунд холбогдох бөгөөд “Мөнх тэнгэрийн хүчинд хааны суу дор...” хэмээх утгатай дурсгалын бичээс юм. Дөрвөлжин бичээс нь бүрэн тайлагдаагүй байна.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpeXwgACVBef0EeKNyjzzbxVvcM5OTS6yN-cTcNUwyBQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoAQEX2p3W7WmZpNwd_LlFoE4GSeeni2U7flbCW5U8Ig&s=10"
             ]
         },
          
@@ -1711,8 +1711,8 @@ const provinceInfo = {
             location: "Жаргалант сум, Орхон аймаг ",
             description: 'Зэргэлээ нь Эрдэнэт хотоос зүүн урагш ойролцоогоор 25 км-т, Чингэлийн голын хойд эрэг дагуу 10 км орчим үргэлжилсэн түүх, археологийн дурсгалт газар. Энд хүрэл, төмрийн үе, Түрэг болон дундад зууны үеийн булш, хиргисүүр, зэл чулуу, тахилгын байгууламж олон байдаг.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNcQ-604pr2By5L7ouowPHaKE4-Mxsg4Xszw5Ne6DlYg&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyl4Jht5iiqTddIC1NsWXytuUUle4UxtXdKv_MH5ycOQ&s=10"
             ]
         },
 
@@ -1721,8 +1721,8 @@ const provinceInfo = {
             location: "Жаргалант сум, Орхон аймаг",
             description: "Айргийн гозгор нь Жаргалант сумын төвөөс зүүн тийш 7 км орчимд орших Хүннүгийн хожуу үеийн ховор бүлэг дурсгал юм. Энд 100 гаруй булш бүртгэгдсэн бөгөөд судалгаагаар Хүннүгийн хожуу үе, Сяньбийн эхэн үетэй холбогдох нь тогтоогджээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRb8M6gqZRNW-peqT4St9Ap4fN3NiscujJUuZ7SWzHXQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4wMHnxAM3LTqgKxB_t_8ODMVYs8rxRi8ZRfFmmMOCQ&s=10"
             ]
         },
         {
@@ -1730,8 +1730,8 @@ const provinceInfo = {
             location: "Жаргалант сум, Орхон аймаг",
             description: "Бөөрөнхий сайр нь Жаргалант сумын төвөөс зүүн урагш 8 км, Намаржаагийн гозгороос баруун урагш 2–3 км-т орших өвөрмөц боржин чулуун тогтоц. Цайвар шаргал өнгөтэй, 3.8 м өндөр, 5 м урт, өндөг шиг бөөрөнхий хэлбэртэй бөгөөд ойр орчимд нь өөр хад чулуу бараг байдаггүй.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06P69r7-CJkSjf7x6gcGp4q2PhTO1Jpuvmqj6GnvuOg&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQV9IBYcmotmgMbKbnnbi1IoL7LDqKVY0DjMg_6tJDVQ&s=10"
             ]
         },
 
@@ -1743,8 +1743,8 @@ const provinceInfo = {
             location: "Сүхбаатар дүүрэг, Улаанбаатар хот ",
             description: 'Чингисийн талбай буюу одоогийн Сүхбаатарын талбай нь Улаанбаатар хотын төвд орших Монголын төр, түүх, соёлын гол талбай юм. Талбайн төвд Д.Сүхбаатарын морьт хөшөө, хойд талд Төрийн ордон болон Чингис хаан, Өгөөдэй, Хубилай хааны хөшөө бүхий цогцолбор байрладаг.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg55LIlzN4JxUZ8U_it7tcm9ciU3CUurn0ud8nRqabcA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZJVLSFa-tRvZglahzIplrKKEi_tbTt2ZFtcrzdDbWzA&s=10"
             ]
         },
 
@@ -1753,8 +1753,8 @@ const provinceInfo = {
             location: "Хан-Уул дүүрэг, Улаанбаатар хот",
             description: "Зайсан толгой нь Улаанбаатарын өмнөд хэсэгт, Богд хан уулын хормойд орших түүхэн дурсгалт өндөрлөг. Оройд нь Зөвлөлтийн дайчдын дурсгалын цогцолбор байрладаг бөгөөд цогцолборыг 1969 онд барьж эхлэн, 1971 онд нээсэн.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5nHPKsR06DNXwW_mVNT6C_SeuXXK-OFApG2kq5vgsrQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpxkiWxjsaHDVBwKZGJnq-omSpn9N1XTKiK71YNoIUw&s=10"
             ]
         },
         {
@@ -1762,8 +1762,8 @@ const provinceInfo = {
             location: "Баянгол дүүрэг, Улаанбаатар хот",
             description: "Гандантэгчинлэн хийд нь Монголын бурхны шашны төв хийд бөгөөд Гандангийн дэнжид байрладаг. XIX зуунд байгуулагдсан тус хийдэд Мэгжид Жанрайсигийн сүм зэрэг түүхэн барилга байгууламжууд байдаг бөгөөд улсын хамгаалалтад бүртгэгдсэн.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp9a4zZTLqkIR3ZQXlSE0A9XfqytNbAegxGBY1x6sTVQ&s=10",
+                "https://www.touristinfocenter.mn/Images/Cate/1/%D0%93%D0%B0%D0%BD%D0%B4%D0%B0%D0%BD%20%D1%85%D0%B8%D0%B9%D0%B4%201.jpg"
             ]
         },
          {
@@ -1771,8 +1771,8 @@ const provinceInfo = {
             location: "Чингэлтэй дүүрэг, Улаанбаатар хот",
             description: "Монголын Үндэсний музей нь Монгол нутагт хүн анх суурьшсан үеэс өнөөг хүртэлх түүх, археологи, угсаатны зүй, соёлын өвийг хадгалж, судалж, олон нийтэд дэлгэн үзүүлдэг үндэсний хэмжээний музей юм. Тус музейн сан хөмрөгт 60 мянга гаруй үзмэр хадгалагддаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNztXvvvAXLJFvne54bfqWTzBUM2SuzyAeU5hkqEGyw&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUnmgP_dIS-fU9fZ6dddTRUovNXwZuMdbSDQoigWKBbw&s=10"
             ]
         },
         {
@@ -1780,8 +1780,8 @@ const provinceInfo = {
             location: "Чингэлтэй дүүрэг, Улаанбаатар хот",
             description: "Чингис хаан Үндэсний музей нь Монголын эртний төрт улсаас ХХ зууны эхэн хүртэлх түүх, соёл, археологийн өвийг харуулсан үндэсний музей юм. 10,000 гаруй эх үзмэртэй бөгөөд Хүннү, Түрэг, Монголын эзэнт гүрэн болон Монголын хаад, язгууртнуудын түүхийг орчин үеийн үзүүлэн, технологиор танилцуулдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6CVeoErDhfsXq46fp6Jo9fTrltN756OkTLwrFAwh2g&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9y_RFET9XKv8JflbtTiILXzMfa7_DLgcSQd0zcmZGg&s=10"
             ]
         },
             
@@ -1793,8 +1793,8 @@ const provinceInfo = {
             location: "Сүмбэр сум, Говьсүмбэр аймаг ",
             description: 'Чойрын Богд уул нь Чойр хотын орчимд орших, хад чулуурхаг тогтоцтой, хамгаалалтад авсан байгалийн үзэсгэлэнт уул юм. Уулын орчимд түүх, шашны дурсгалт газрууд, тэр дундаа Зүүн Жанжин Чойрын хийдийн туурь бий.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYTwKCHYM6By1gVUF2HadT4p_mg3E2_oMXn4e8l96I1g&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkU-t728D3u4oCx0PW91z9KPq1ohTLDyTWBdR5T_-SA&s=10"
             ]
         },
 
@@ -1803,8 +1803,8 @@ const provinceInfo = {
             location: "Сүмбэр сум, Говьсүмбэр аймаг",
             description: "Зүүн Жанжин Чойрын хийд буюу Балдандашгомалин хийдийг 1778–1779 онд Богд уулын Марцын хоолой орчимд байгуулжээ. Тус хийд нь Чойр, Жүд, Мамба, Дүйнхор зэрэг дацантай, тухайн хошууны томоохон шашин, сургалтын төв байсан бөгөөд 1938 оны хэлмэгдүүлэлтийн үеэр устгагдаж, өнөөдөр хийдийн туурь үлджээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPYlf5Nu0wKDxFlh_OYcn1FUVksod9eau81te0289HaA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXDo6fFnYT1fPn07ZkYEvlELUckGxEU9TarDfmDORdLg&s=10"
             ]
         },
         {
@@ -1812,8 +1812,8 @@ const provinceInfo = {
             location: "Сүмбэр сум, Говьсүмбэр аймаг",
             description: "Зүүн Чойрын хийдийн Цогчин дуганы орчимд боржин хаданд сийлсэн 245 см өндөр, 170 см өргөн Цагаан Дарь эхийн хагас ингэмэл бүтээл юм. 1820-иод оны үед бүтээгдсэн бөгөөд урт нас, эрүүл энхийг бэлгэддэг шүтээн хэмээн нутгийнхан хүндэтгэн шүтэж иржээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7avlY4_VtNT924MRxMJGHuQ9QvHID1iLuo6AIqpXW_Q&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6wQlzd3GBy5t2Ut7e9wR-te2pvpWp-OGsVZYgU9xQQ&s=10"
             ]
         },
          {
@@ -1821,8 +1821,8 @@ const provinceInfo = {
             location: "Сүмбэр сум, Говьсүмбэр аймаг",
             description: "Цоорхойн рашаан нь Чойрын Богд уулын баруун талын уулын хормойд орших байгалийн өвөрмөц рашаан юм. Зун маш хүйтэн байдаг атлаа өвлийн ид хүйтэнд ч харзлан ундардаг онцлогтой. Нутгийн иргэд рашааныг дээдлэн хэрэглэж ирсэн бөгөөд 2018 онд аялал жуулчлалын зориулалтаар тохижуулжээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp0cIIhJBniBBlg2sX7rwPwPKvy0qddTBJCHRMJXC89g&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkUGdX_FwvmUeD5pjwoefXDDPrnBIu0c8E2uG-OqPyQ&s"
             ]
         },
         {
@@ -1830,8 +1830,8 @@ const provinceInfo = {
             location: "Сүмбэр сум, Говьсүмбэр аймаг",
             description: "Чойрын Богд уулын хойд талын хаданд сийлсэн 317 см өндөр Дагвасүндэл бурханы хөрөг юм. Дамдин, Чагдар, Чунт бурхдын нийлмэл дүрслэл бөгөөд нутгийн иргэд эр хүний хийморь, айл гэрийн ноён нуруугаа даатган шүтэж ирсэн түүхэн дурсгал. Улсын хамгаалалтад байдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVxlsV_jsNIAB0hwViAJrQcf8i2szQPF7KHPjfhMtcw&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ84JTjc-ZgRGyMxLafB0eiRx7wvhOAam6OpNuqrU_6g&s=10"
             ]
         },
             
@@ -1839,12 +1839,12 @@ const provinceInfo = {
     GoviAltai: [
 
         {
-            name: "Харандаа хад:",
+            name: "Харандаа хад",
             location: "Тайшир сум, Говь-Алтай аймаг ",
             description: 'Чойрын Богд уул нь Чойр хотын орчимд орших, хад чулуурхаг тогтоцтой, хамгаалалтад авсан байгалийн үзэсгэлэнт уул юм. Уулын орчимд түүх, шашны дурсгалт газрууд, тэр дундаа Зүүн Жанжин Чойрын хийдийн туурь бий.',
             photos: [
-                "D:/kz/zurag/tov.jpg",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRieeLzZ5jHHwCtC0ueC5rprp9E8AQ-ciu1C6jorVB9aA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoq1rMnwCnknXEEXOzNy54XLJhv97Xcb4JbY5oH-6eQ&s=10"
             ]
         },
 
@@ -1853,8 +1853,8 @@ const provinceInfo = {
             location: "Шарга сум,Говь-Алтай аймаг",
             description: "Талын хүрхрээ нь Шарга сумын нутагт орших байгалийн үзэсгэлэнт газар. Эндэхийн гол 20 гаруй метрийн өндөр ангал дундуур хүрхрээ болон урсдаг. Говь-Алтай аймгийн аялал жуулчлалын гол үзмэрүүдийн нэг бөгөөд Шарга сумын төвөөс ойролцоогоор 22 км орчим зайд байдаг.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg4qhuqofmMMepoEOhSMcNjgJVsEYcLb18_l_tWRBsqQ&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScziXjLTE_2wMK8_-Q5d1NQF9EXvknxsUvJX83pa34ww&s=10"
             ]
         },
         {
@@ -1862,29 +1862,10 @@ const provinceInfo = {
             location: "Жаргалан сум, Говь-Алтай аймаг",
             description: "Зүүн Чойрын хийдийн Цогчин дуганы орчимд боржин хаданд сийлсэн 245 см өндөр, 170 см өргөн Цагаан Дарь эхийн хагас ингэмэл бүтээл юм. 1820-иод оны үед бүтээгдсэн бөгөөд урт нас, эрүүл энхийг бэлгэддэг шүтээн хэмээн нутгийнхан хүндэтгэн шүтэж иржээ.",
             photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIpS6cv4D_1zXcyr3ba953CcvDg8Tuaf8Z0Q8WXw2eMA&s=10",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTki3_ElJddRLZ3QYNj5_owFUBGANIk4iBn1Vvw-KeFEw&s=10"
             ]
-        },
-         {
-            name: "Цоорхойн рашаан",
-            location: "Сүмбэр сум, Говь-Алтай аймаг",
-            description: "Цоорхойн рашаан нь Чойрын Богд уулын баруун талын уулын хормойд орших байгалийн өвөрмөц рашаан юм. Зун маш хүйтэн байдаг атлаа өвлийн ид хүйтэнд ч харзлан ундардаг онцлогтой. Нутгийн иргэд рашааныг дээдлэн хэрэглэж ирсэн бөгөөд 2018 онд аялал жуулчлалын зориулалтаар тохижуулжээ.",
-            photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
-            ]
-        },
-        {
-            name: "Дагвасүндэл бурхан",
-            location: "Цогт сум, Говь-Алтай аймаг",
-            description: "Ээж Хайрхан уул нь Алтайн өвөр говьд орших өвөрмөц боржин чулуун тогтоцтой байгалийн дурсгалт газар. Ууланд чулуулгийн судлыг даган тогтсон 9 чулуун тогоо, мөн Эмбүү хад, Мэлхий хад, Эхийн хэвлий хад зэрэг олон өвөрмөц тогтоц бий. 1995 онд улсын тусгай хамгаалалтад авсан.",
-            photos: [
-                "ЭНД_1_ЗУРГИЙН_URL",
-                "ЭНД_2_ЗУРГИЙН_URL"
-            ]
-        },
-            
+        },      
     ],
     
     
